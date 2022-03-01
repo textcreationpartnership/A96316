@@ -1,0 +1,1015 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Israels tears for distressed Zion. Shown in a sermon before the Right Honourable House of Lords assembled in Parliament, at their late solemn fast, in the Abby-Church of Westminster, Sept. 24. 1645. / By John Whincop D.D. and pastor of the church of Clothall in Hertford-shire. Published by order of the House of Peers.</title>
+            <author>Whincop, John, d. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96316</idno>
+            <idno type="STC">Wing W1664</idno>
+            <idno type="STC">Thomason E302_26</idno>
+            <idno type="STC">ESTC R200285</idno>
+            <idno type="EEBO-CITATION">99861091</idno>
+            <idno type="PROQUEST">99861091</idno>
+            <idno type="VID">113219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113219)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E302[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Israels tears for distressed Zion. Shown in a sermon before the Right Honourable House of Lords assembled in Parliament, at their late solemn fast, in the Abby-Church of Westminster, Sept. 24. 1645. / By John Whincop D.D. and pastor of the church of Clothall in Hertford-shire. Published by order of the House of Peers.</title>
+                  <author>Whincop, John, d. 1647.</author>
+               </titleStmt>
+               <extent>[8], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.C. for Andrew Crooke at the sign of the Green Dragon in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print on verso of first leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXXXVII, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb n="2" facs="tcp:113219:1"/>
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap> this was the firſt <hi>end</hi> propounded for it: Afterwards our <hi>Engliſh Zion</hi> cryed aloud for prayers and tears too. And now Gods <hi>Zion</hi> in <hi>Scotland</hi> cries as loud as any, All but one <hi>Zion,</hi> one <hi>Church,</hi> profeſſing one Religion, and faith in Chriſt, yet each one labouring under <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeverall preſ<g ref="char:EOLhyphen"/>ſures, under in rage<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and cr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>Here is the <hi>occaſion</hi> of your <hi>Meeting</hi> now: a <hi>treble</hi> heavy and dolefull ſpectacle you have to ſad your eyes withall, whereas at firſt, you had but <hi>one.</hi> I hope your affections will bee ſuitable, that as you are come, and here <hi>ſet down,</hi> ſo before you goe away you will <hi>weep</hi> too, which mee thinks you cannot chuſe but doe, if as you ought, you will <hi>remember Zion.</hi>
+            </p>
+            <p>I will hold you no longer therefore from the Duty, you ſhall have a Diſcourſe anſwerable thereunto, void of or<g ref="char:EOLhyphen"/>naments or dreſſe at all, <hi>ſad</hi> and <hi>plain,</hi> fit for<note n="(b)" place="margin">Debemus conſiderare in omni re, quid aptu<g ref="char:cmbAbbrStroke">̄</g> ſit &amp; con<g ref="char:EOLhyphen"/>ſemaneum tem<g ref="char:EOLhyphen"/>pori &amp; perſonae, cum quid in dic<g ref="char:EOLhyphen"/>tis factiſque de<g ref="char:EOLhyphen"/>ceat. <hi>Cic. in O<g ref="char:EOLhyphen"/>rat. ad Brutum.</hi>
+               </note> Mour<g ref="char:EOLhyphen"/>ners, may but <hi>Zion</hi> onely bee the better remembred by it, and that's all I ſhall deſire.</p>
+            <p>The words in themſelves are part of that <hi>deſcription</hi> which the Iſraelites make of their own wofull and lamen<g ref="char:EOLhyphen"/>table condition, under the <hi>Babyloniſh</hi> captivity, wherein, as when they came out of <hi>Egypt,</hi> they had the red Sea be<g ref="char:EOLhyphen"/>fore them, and <hi>Pharaoh</hi> and his Hoaſt behinde them; So here, <hi>before</hi> them is the preſent condition they are in <hi>viz. ſitting down and weeping,</hi> and their former ſtate <hi>behi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> them, which now they have loſt, and are deprived of, and that is it which now they <hi>remember,</hi> their beloved <hi>Zion.</hi>
+            </p>
+            <p>I'le make but two parts of the <hi>Text;</hi> here is <hi>Paena</hi>
+               <list>
+                  <item>
+                     <hi>Senſus,</hi> the puniſhment of <hi>ſenſe,</hi> in the firſt words, <hi>ſate down and wept.</hi>
+                  </item>
+                  <item>
+                     <hi>Damni,</hi> the puniſhment of <hi>loſſe,</hi> inti<g ref="char:EOLhyphen"/>mated in the laſt, <hi>when wee remem<g ref="char:EOLhyphen"/>bred Zion:</hi> viz. that <hi>Zion</hi> which now wee have loſt.</item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:113219:1"/>
+            <p>Or if you will have it plainer, you may ob<g ref="char:EOLhyphen"/>ſerve three,
+<list>
+                  <item>1. <hi>Subjectum,</hi> the ſubject ſpoken of, <hi>Wee.</hi>
+                  </item>
+                  <item>2. <hi>Paſſio ſeu affectto,</hi> the paſſion or af<g ref="char:EOLhyphen"/>fection of this ſubject, <hi>Sate down, and wept.</hi>
+                  </item>
+                  <item>3. <hi>Ratio ſeu Cauſa utriuſque,</hi> the reaſon of both, <hi>When wee remember Zion.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>I could eaſily give you a more curious <hi>diviſion,</hi> and I do confeſſe, were I to make an <hi>Oration</hi> upon theſe words, mee thinks I could finde excellent matter enough, to pleaſe both eares and phanſy too: But as a Divine I wave all ſuch levities, and preſent you plainly with the <hi>ſumme</hi> of all; as if poore <hi>Iſrael,</hi> ſhould thus have ſaid:</p>
+            <p>Wee unhappy <hi>Iſrael,</hi> once the beloved of the Lord, his <hi>Spouſe,</hi> his <hi>Darling,</hi> his <hi>Well-beloved;</hi> Nay wee,<note place="margin">Job 29.6.</note> who not long ſince <hi>wet our footſteps in Butter, and the rocks powred us out rivers of Oyle, while the hand of the Almighty was up<g ref="char:EOLhyphen"/>on our Tabernacle, and his Candle ſhone upon our head;</hi> Who wanted nothing of all outward plenty and proſperity that this world could afford: yet even Wee, for our ma<g ref="char:EOLhyphen"/>nifold <hi>ſins</hi> and <hi>tranſgreſſions</hi> againſt our God, for our re<g ref="char:EOLhyphen"/>bellions and unthankfulneſſe againſt our Maker, are caſt now out of our own holy Land, out of <hi>Zion</hi> into <hi>Babylon,</hi> a land of heathens and Idolaters; nay, out thence too, out of their Towns and Cities, to the <hi>Rivers,</hi> to the <hi>wa<g ref="char:EOLhyphen"/>ters ſide,</hi> where diſconſolate and comfortleſſe, wee know not what to doe, but onely <hi>ſit</hi> ſadly <hi>down, yea, and weep</hi> for our ſins, wherewith wee have diſpleaſed our God: for the miſeries our, ſins have brought us into, but more eſpecially for the ſad, and heavy ſtate, and condition, wee have left our poore <hi>Zion</hi> in, all rent and torn in peeces, all ruined and deſtroyed: This, this is that which cuts us to the very heart<note n="(c)" place="margin">Nimis <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eſt record<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tio Patriae, quae in hoſtiti retrae pro<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> exiſtere nam quanto haec a nara ſentitur, ta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o ſit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>vior: <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> enim peregri <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, brop<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> domici<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> creſcie affect<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Pſal. 137.</hi> Si <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eſt Patria, amara eſt peregrinatie; tota die Tribu<g ref="char:EOLhyphen"/>lati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, quando in patria non eſt delectatio. <hi>Aug. in Pſal.</hi>
+               </note>, This makes us <hi>ſit down and weep, when wee remember Zion.</hi>
+            </p>
+            <p>Ile ſpeak a little of the Subject here (wee muſt not paſſe it wholly by, That's it this people complaines ſo of, <hi>La<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> 1.12. <hi>Is it nothing to you all yee that paſſe by? behold and ſee, if there bee any ſorrow like unto my ſorrow, which is
+<pb n="4" facs="tcp:113219:2"/>done unto mee, wherewith the Lord hath afflicted mee, in the day of his fierce anger</hi>) and therefore wee will compriſe it briefly under this twofold conſideration.</p>
+            <p>Firſt, Wee <hi>Gods people,</hi> and his antient inheritance, to whom ever before this wee have been dear and precious, and loved above any Nation under Heaven: Wee who were <hi>called by his Name,</hi> and amongſt whom hee himſelf dwelt in the midſt, yet even wee the <hi>children of the moſt Higheſt,</hi> (whiles other heathen folk about us are in plen<g ref="char:EOLhyphen"/>ty and proſperity) are driven to this ſad exigent, to <hi>ſit down and weep, having loſt our</hi> Zion.</p>
+            <p>Whence may you pleaſe to Obſerve the Truth of that which the Apoſtle <hi>Peter</hi> hath forewarned us of, 1 <hi>Pet.</hi> 4.17. That</p>
+            <p>
+               <hi>Judgements uſually begin at the Houſe of God,</hi>
+            </p>
+            <p>According to that precept of the Lord by the Pro<g ref="char:EOLhyphen"/>phet, <hi>Ezekiel</hi> 19.6. <hi>Slay utterly both old and young, and begin at my Sanctuary.</hi> Indeed our Saviour Chriſt hath long agoe told us our doom, what wee are to expect, <hi>Matth.</hi> 16.24. <hi>If any man will come after mee, let him deny himſelf, and take up his croſſe</hi>
+               <note n="(d)" place="margin">Nullus ſer<g ref="char:EOLhyphen"/>vus Dei ſine tri<g ref="char:EOLhyphen"/>bulatione eſt, ſi putas te non ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere perſecutio<g ref="char:EOLhyphen"/>nes, nondun cae<g ref="char:EOLhyphen"/>piſti eſſe Chri<g ref="char:EOLhyphen"/>ſtianum, <hi>Aug.</hi>
+               </note> 
+               <hi>and follow mee.</hi> Deny, de<g ref="char:EOLhyphen"/>ny himſelfe, thus denying himſelfe and taking up his croſſe, hee is then fit to follow <hi>Chriſt,</hi> and not before. To the ſame purpoſe Saint <hi>Paul</hi> hath told us<note n="(e)" place="margin">Act. 14.22. Gen. 39.20. Job. 2.8. 1 Sam. 23. Jer. 27.15. Act. 16.23.24. Act. 4 3. &amp; 7.5<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 King. 25.</note> 
+               <hi>That thorow manifold tribulations, wee muſt enter into the Kingdome of God.</hi>
+            </p>
+            <p>I need not tire you with <hi>Examples.</hi>
+            </p>
+            <p>Hee that has read of <hi>Joſeph</hi> in priſon, <hi>Job</hi> upon the dunghill; or <hi>David</hi> wandering in the Wilderneſſe; of <hi>Jeremy</hi> in the dungeon; <hi>Paul</hi> and <hi>Silas</hi> in the ſtocks; <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> and <hi>John</hi> in priſon; and <hi>Stephen</hi> under an heape of ſtones; of <hi>Jeruſalem</hi> ſacked; <hi>Iſrael</hi> diſcomfited, and <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> waſted; with infinite examples more of later dayes, may eaſily conceive the Truth of this, if theſe ſad times have not already given him ſufficient proofe thereof to his coſt, (it may bee) in his own particular. Thus fares it with the righteous here, They are like the Sun hid
+<pb n="5" facs="tcp:113219:2"/>many times with dusky cloudes, like ſweet Violets quite covered over with ſhady leaves, like pretious Pearles, lodg<g ref="char:EOLhyphen"/>ed in heaps of Sand and rubbiſh. This earthly Moon the Church (as one ſaith) as well as that in Heaven, hath <q>her Fulls, and her Wanes; yea, and ſometimes her E<g ref="char:EOLhyphen"/>clipſes too, ſo long as ſhee wanders in this Planetary world, it is in vain for her to expect any better; It is well for her when ſhee is fixed above,</q> if then ſhee may bee free from Change. Nor can it bee expected it ſhould ever bee otherwiſe, ſince through all <hi>Ages,</hi> there has ne<g ref="char:EOLhyphen"/>ver wanted ſome to vex and trouble the peace of <hi>Zion.</hi>
+            </p>
+            <p>Before the <hi>Flood</hi> there was a bloody <hi>Caine,</hi> after him a proud <hi>Nimrod,</hi> then a cruell <hi>Pharaoh,</hi>
+               <note place="margin">Gen. 4. &amp; 10. Exod. 1. Iſa. 36 Act. 12.</note> after a blaſphemous <hi>Senacherib,</hi> then a wicked <hi>Herod,</hi> after <hi>Nero, Caligula, Do<g ref="char:EOLhyphen"/>mitian, Lulian,</hi> with many moe, and now at this day, worſe then all, (like ſo many Hydra's heads, one ſpring<g ref="char:EOLhyphen"/>ing up after another) the curſed race of <hi>Turk</hi> and <hi>Pope,</hi> of <hi>Ieſuite</hi> and <hi>Seminarie,</hi> the influence of whoſe rage and malice, wee too dearely feele all the three King<g ref="char:EOLhyphen"/>domes over.</p>
+            <p>How hardly mean-while would it goe with the poore <hi>Iſrael</hi> of God, had not God in his mercy forewarned them of theſe things before, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c.<note place="margin">2 Tim. 3.12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> 1.</note> that whoſoever will live godly in this life muſt ſuffer afflictions?</p>
+            <p>Which ſhould (mee thinks) take away that <hi>ſtumbling block</hi> which has laine both in <hi>David</hi> and <hi>Ieremies,</hi> and the beſt of Gods Childrens way, of being troubled at this as though ſome <hi>new thing had befalnc them,</hi> ſince its no other, but what has been the lot of all Gods Children through all Ages whatſoever.</p>
+            <p>Yea, but what comfort in thy ſervice thou great Land-Lord of heaven and earth (may ſome reply) if thou u<g ref="char:EOLhyphen"/>ſeſt thy beſt ſervants ſo hardly? Nay, but rather peace, (murmuring Soule) for what <hi>art thou that replyeſt againſt God?</hi> If neither <hi>Examples</hi> of others,<note place="margin">Rom. 9.20.</note> nor Gods <hi>conſtant dealing</hi> in all Times, nor his <hi>forewarning</hi> thee ſo oft, will ſerve the turn. Were it directly pertinent to this point
+<pb n="6" facs="tcp:113219:3"/>(which I deſire onely to paſſe over <hi>in tranſitu</hi>) I could eaſily juſtifie the proceedings of my Maker, and give <hi>Rea<g ref="char:EOLhyphen"/>ſons</hi> abundant of this the various diſpenſation of his pro<g ref="char:EOLhyphen"/>vidence towards the Sons of Men. As,</p>
+            <p>Firſt, to put a <hi>difference</hi> betwixt <hi>here</hi> and <hi>hereafter:</hi> The wicked uſually have their heaven here, and their hell here<g ref="char:EOLhyphen"/>after, the righteous contratily, have ſorrow here, and joy when they come to a better place<note n="(f)" place="margin">Mali nihil habent in Coelo, vos nihil in mundo. <hi>Beda in ſac. 1.</hi> Non te delectet virtditas faeni, ſed time aridi<g ref="char:EOLhyphen"/>tatem ipſius. Juſtus vero ut Palina florebit; Palma in No<g ref="char:EOLhyphen"/>viſſimis pulchra eſt, Aſpera ra<g ref="char:EOLhyphen"/>dix in Terra vi<g ref="char:EOLhyphen"/>detur, ſed pul<g ref="char:EOLhyphen"/>chra coma ſub Coelo eſt, ſic erit tua pulchritudo in fine, &amp;c. <hi>Aug. in Pſal. 93.</hi>
+               </note>.</p>
+            <p>Secondly, to ſhew his <hi>care</hi> and <hi>Love</hi> of his own<note n="(g)" place="margin">Magis amat objurgator ſa<g ref="char:EOLhyphen"/>nans quam adu<g ref="char:EOLhyphen"/>laior diſſimulans <hi>Aug. in Epiſt. ad Marc.</hi>
+               </note>. how? ſtrange love you will ſay, alwayes to bee raking in their wounds and preſſing them down with heavy burdens and afflictions, and yet this is that which the Spirit of God aſſureth, <hi>Heb.</hi> 12.6. <hi>Whom the Lord loveth hee chaſteneth, and ſcourgeth every Son whom hee receiveth</hi>
+               <note n="(h)" place="margin">Aſperiori<g ref="char:EOLhyphen"/>bus exercet Pae<g ref="char:EOLhyphen"/>ter filium quam Dominus Verna<g ref="char:EOLhyphen"/>culum, ſed dura Patris non impar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to flagella, quia vult filium ineliorem eſſe quam ſervulum. <hi>Ambr.</hi>
+               </note>. And againe, ver. 7. <hi>If yee indure chaſtening God dealeth with you as with ſons, for what ſon is hee whom the Father chaſteneth not?</hi> And ver. 8. <hi>If yee bee without chaſtiſement whereof all are partakers, then are yee baſtards and not ſons.</hi>
+            </p>
+            <p>Thirdly, to <hi>humble</hi> them and keep them down, leſt they grow wanton and forget God, it being uſually proud <hi>Ieſſuruns</hi> fault, as ſoon as ever hee is grown fat, to <hi>kick</hi> againſt the Lord his God<note n="(i)" place="bottom">Magnae eſt miſericordiae nequitiou unpunitam non relinquere, necogatur damnara in gehenna. <hi>Aug</hi>
+               </note>.</p>
+            <p>Fourthly, to <hi>ſtirre up graces</hi>
+               <note n="k" place="bottom">Sic ſolet Deus afflictionibus exagitare, ut vaſa Electiorus ev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uentur ne<g ref="char:EOLhyphen"/>quitia, &amp; impleantur gratia. <hi>Aug.</hi> Sinit Deus Juſtum incidere in miſerias, ut virtutem quae in illo latebat ape <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iorem reddat, <hi>Deni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> quae ſunt haec <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mma niſi exerei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um fide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, inſigne pa<g ref="char:EOLhyphen"/>tientiae, eruditie glorioſa virtut<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>? <hi>Ambr.</hi>
+               </note> in them. Pomanders never ſend out ſo ſweet a ſmell as when they are rubbed, and a Flint no ſparks till it bee ſtrucken. It was Biſhop <hi>Bonners</hi> ordinary jeere to the Martyrs in Queen <hi>Maries</hi> daies, that the ſight of a Fagot would ſoon make them all recant, and yet never did God get more glory, then in the conſtancy of hoſe righteous ſoules, never fiſh taſted ſweeter then in thoſe brackiſh ſtreames, and never did the Camomile of the Church ſend forth a more fragrant
+<pb n="7" facs="tcp:113219:3"/>ſmell, then when it was trodden down in thoſe turbulent dayes; and were it not for theſe trials, what uſe would the righteous have of Patience, Faith, and other Graces, which by theſe are made to ſhine the brighter<note n="*" place="margin">Igne purgati ſplendent, <hi>Hilar.</hi> Electis ſuis ad ſe pergentibus De<g ref="char:EOLhyphen"/>us buyus mundi Iter aſperum fa<g ref="char:EOLhyphen"/>cit, ne dum quiſ<g ref="char:EOLhyphen"/>que chlectatur in via, chliviſ<g ref="char:EOLhyphen"/>catur quod deſi<g ref="char:EOLhyphen"/>derabat in Pa<g ref="char:EOLhyphen"/>tria <hi>Greg.</hi>
+               </note>?</p>
+            <p>Fifthly, to make them <hi>out of love</hi> with this <hi>world,</hi> where there is nothing but ſorrow, and they <hi>ſtrangers and pil<g ref="char:EOLhyphen"/>grims</hi> here, and to <hi>long</hi> for that place, where there is no<g ref="char:EOLhyphen"/>thing but joy, and they at home in their purchaſed poſ<g ref="char:EOLhyphen"/>ſeſſion.</p>
+            <p>Sixthly, to make <hi>Heaven welcome</hi> afterwards. Calmes are never ſo pleaſing as after ſtormes<note n="(l)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> Sol nubibus obtectus, laetius poſtea ſplendet, &amp; Ver poſt byemis triſtitiam eſt acceptius, ju<g ref="char:EOLhyphen"/>cundio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tranquillitas blanda, &amp; mare quietum, poſt ſeditiones ventorum, &amp;c. Sic poſt afflicti<g ref="char:EOLhyphen"/>ones Vita tranquillior, &amp;c. <hi>Nazien. in Orat. de Cypriano.</hi>
+               </note>, health, as after long ſickneſſe, or after labour reſt, ſo the joyes of Hea<g ref="char:EOLhyphen"/>ven will bee truely welcome then, after ſo much ſorrow, ſo much grief, <hi>When all teares ſhall bee wip't away.</hi>
+            </p>
+            <p>Theſe few (though many moe might bee added) may ſuffice abundantly, as to ſatisfie the doubting ſoule; ſo,</p>
+            <p>Secondly, to <hi>comfort</hi> the poore <hi>Iſrael</hi> of God, now in theſe ſad and drooping times: O cheere up thy ſelf, (who<g ref="char:EOLhyphen"/>ever thou art) and <hi>lift up thoſe hands which hang ſo down;</hi> Remember what gracious promiſes thy Redeemer hath made, and what the holy one of <hi>Iſrael</hi> hath ſaid, that they <hi>Who now goe on their way weeping, hearing precious ſeed,</hi>
+               <note place="margin">Pſal. 126.6.</note> 
+               <hi>ſhall d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>btleſſe come again with joy, and bring their ſheaves with them.</hi> And again,<note place="margin">Pſal. 30.5.</note> 
+               <hi>They that ſow in tears ſhall reap in joy.</hi> 
+               <q>The ſeed-time indeed (as one of our own ſayes well) may bee wateriſh and lowring, but they may well bee content with a wet Spring, ſo they may bee ſure of a cleare and plentifull harveſt.</q>
+            </p>
+            <p>And give mee leave to adde one word more, to make the proceedings of the Almighty more clear. You muſt not looke at <hi>Iſrael</hi> here, at this <hi>Wee,</hi> as abſolutely juſt and righteous, and without any faults at all, or matter for the Juſtice of God to work upon; but <hi>Wee,</hi> who have ſin<g ref="char:EOLhyphen"/>ned, and offended God, who have <hi>provoked the holy One of
+<pb n="8" facs="tcp:113219:4"/>Iſrael,</hi> and dealt exceeding <hi>deceitfully</hi> with him, whom neither ſtormes of judgements, nor calmes of mercies, nor any warnings, could bring home, but have <hi>corrupted our wayes before him,</hi> and done every one what ſeemed good in his own eyes: and therefore <hi>Wee, Wee</hi> muſt look to ſmart for it rather then others, <hi>Wee,</hi> for Gods correcting and chaſtiſing hand before any.</p>
+            <p>I remember a ſtory in our own Chronicles, of <hi>Edward</hi> the firſt, King of <hi>England,</hi> when a great Noble man had committed Treaſon againſt him, and ſome pleaded for him that hee might well bee ſpared, hee was a great Man, <q>No, ſaith the King, but as great hath been his Riſe, ſo great ſhall bee his downfall; and as hee hath been raiſed high in Honour, and hee abuſed it, ſo ſhall hee bee in Diſgrace<note n="(a)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Chriſ.</note>.</q> Not unlike is Gods manner of dealing even with his own, his beloved ones, when once they abuſe his goodneſſe and forbearance.</p>
+            <p>Who fares worſe, (if the Father takes in an unhappy turn) then his own Son? hee ſhall bee ſure to bee beaten,<note n="(b)" place="margin">Duos filies habet homo; alie<g ref="char:EOLhyphen"/>rum caſtigat, alterum dimittit facit unus male &amp; non corripi<g ref="char:EOLhyphen"/>tur a Patre; alter mox ut ſe move<g ref="char:EOLhyphen"/>rit Colaphis cae<g ref="char:EOLhyphen"/>ditur, flagellatur <g ref="char:V">Ʋ</g>nde ille dimit<g ref="char:EOLhyphen"/>titur, &amp; ille cae<g ref="char:EOLhyphen"/>ditur, niſi quia huic caeſo Haere<g ref="char:EOLhyphen"/>ditas ſervatur, ille autem di<g ref="char:EOLhyphen"/>miſſus exhaere<g ref="char:EOLhyphen"/>datus eſt. <hi>Aug. in Pſal. 93.</hi>
+               </note> whoever elſe ſcape free. Whom ſooner (being taken in a fault) does the Maſter correct, then his own ſervants? whiles others who are ſtrangers goe untouched.</p>
+            <p>And did I not run over this point in haſte (as not ſo pertinent to what is intended here) I could tell you why; As,</p>
+            <p>Firſt, Becauſe <hi>Wee,</hi> Gods Children, have been <hi>better taught</hi> then others who have not had ſuch knowledge of his Laws, therefore for ſuch to know their Maſters will and doe it not, makes them more liable to bee beaten with many ſtripes,<note n="(c)" place="margin">Quid mirum ſi iſte mundus tanquam ſervus jam ſciens vo<g ref="char:EOLhyphen"/>luntate<g ref="char:cmbAbbrStroke">̄</g> Domini, &amp; faciens digna plagis vapulet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>? <hi>Auſt.</hi>
+               </note> 
+               <hi>Luk.</hi> 12.47.</p>
+            <p>Secondly, They <hi>have received more Mercies</hi> then others, and for them now to ſin againſt theſe, againſt all thoſe pretious priviledges and immunities, all theſe winning favours and goodneſſes of their God, (as it is with a <hi>Candle</hi> the nearer any thing is ſet unto it, the greater ſha<g ref="char:EOLhyphen"/>dow it caſts behinde it) ſo to ſin neer theſe means, and allurements unto good, amidſt mercies and prerogatives,
+<pb n="9" facs="tcp:113219:4"/>is a great deale more intolerable then otherwiſe; Since Chriſt himſelf hath ſaid it, <hi>
+                  <g ref="char:V">Ʋ</g>nto whomſoever much is given, of him ſhall much bee required again,</hi> Luk. 12.48.</p>
+            <p>Thirdly, becauſe <hi>God is more diſhonoured</hi> by one ſinne of the righteous, then with thouſands of the wickeds and ungodlyes. <hi>Becauſe by this deed</hi> (ſaith <hi>Nathan</hi> to <hi>David</hi>) <hi>thou haſt given great occaſion to the enemies of the Lord to blaſpheme: therefore, &amp;c.</hi> So, becauſe Gods chil<g ref="char:EOLhyphen"/>dren give ſuch advantage to the wicked, and profane un<g ref="char:EOLhyphen"/>godly men, to ſpeake evill of the wayes of God, and diſ<g ref="char:EOLhyphen"/>honour him; therefore ſhall they ſmart the ſorer for it.</p>
+            <p>Laſtly, (to name no more) becauſe otherwiſe <hi>God might ſeem a partiall God,</hi> to puniſh the ſame ſins in ſome, and paſſe them by in others.<note n="(a)" place="margin">Semper i<g ref="char:EOLhyphen"/>niquus eſt I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dex qui aut invidet aut favei, <hi>Cic. pro Pſanc.</hi> Deus Index nec gratia praeveni<g ref="char:EOLhyphen"/>tur, nec miſeri<g ref="char:EOLhyphen"/>cordia flectitur nec pecuntacor? rumpino, &amp;c. <hi>Aug. l. 3. de ſymbolo.</hi>
+               </note> Therefore to declare to all, that <hi>the Judge of all the world will doe juſtly; and that there is no unrighteouſneſſe with him,</hi> To ſtop the mouths of all gainſayers whatſoever: <hi>We,</hi> the children of the moſt Higheſt, even <hi>before others,</hi> ſhall ſuffer for our ſins, and bee abaſed for them.</p>
+            <p>VVhich in the firſt place ſhould be a <hi>Caveat</hi> unto the righteous, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> and teach them to take heed how they flatter themſelves in vaine, by thinking themſelves priviledg'd in any ſinfull courſe whatſoever<note n="(b)" place="margin">Si pece<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ris &amp; punitus non fueris, ne contem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as (dile<g ref="char:EOLhyphen"/>cte) ſed propter hoc ipſum magi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time qu <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Deo eſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> velit iterum retribuert <hi>Chriſt.</hi>
+               </note>. That of the Pro<g ref="char:EOLhyphen"/>phet <hi>Ezekiel</hi> in the 18 Chapter; is enough to ſtartle any; Verſ. 20. <hi>The ſoule that ſinneth ſhall die, &amp;c.</hi> And ver. 24. <hi>When the righteous turneth away from his righteouſneſſe, and committeth iniquity, and doth according to all the abominati<g ref="char:EOLhyphen"/>ous that the wicked man doth; ſhall be live? All his righteouſ<g ref="char:EOLhyphen"/>neſſe that he hath done ſhall not be mentioned; in his treſpaſſe that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath treſpaſſed, and in his ſin that he hath ſinned; in them ſhall he die.</hi> All his good he hath done ſhall not excuſe him in the evill day. It could not excuſe our <hi>fore-pa<g ref="char:EOLhyphen"/>rents,</hi> but <hi>in the day that they ſinned, did they die the death,</hi> were thruſt out of Paradiſe, and made liable, both they and their whole poſterity, unto everlaſting death and de<g ref="char:EOLhyphen"/>ſtruction; it could not excuſe <hi>Moſes</hi> the ſervant of the
+<pb n="10" facs="tcp:113219:5"/>Lord; but he ſinning at the waters of <hi>Meribah,</hi> could never <hi>enter into the promiſed Land,</hi> though he beg'd it ear<g ref="char:EOLhyphen"/>neſtly. VVhat need I mention <hi>David, a man after Gods own heart;</hi> yet lying under ſo heavie a judgement, as that the <hi>Sword must never depart from his houſe;</hi> and all by reaſon of his ſin: or <hi>Hezekiah,</hi> or <hi>Jonah,</hi> or the beſt of all Gods children. I might goe a little higher, even to the very <hi>Angels</hi> themſelves; who <hi>not keeping their firſt eſtate, but left their owne habitation, are reſerved in everlaſting chaines under darkneſſe unto the judgement of the great day.</hi> Let theſe fairely warne thee to take heed of the like judgment, by no wayes indulging thy ſelfe in the like ſin.</p>
+            <p n="2">2. VVhen God does draw nigh unto the Tents of the righteous, and afflict the habitation of the juſt; let them take need of <hi>murmuring</hi> or repining<note n="(c)" place="margin">Diſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t non murmurare qui mala patitut: per hoc quiſque ſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> patiar<g ref="char:EOLhyphen"/>hitr<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> quia ah illo judica<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, cujus nunquam injuſta Iudicia ſunt, <hi>Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. l. 3. do ſum. bon.</hi> De<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ma<g ref="char:EOLhyphen"/>gis Deum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffen<g ref="char:EOLhyphen"/>diſſe ille populus Iuda<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us dici<g ref="char:EOLhyphen"/>tur, quam contra <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <hi>Aug ſup. Joh.</hi>
+               </note>; but rather learn to ſubmit unto his will, knowing that there is matter e<g ref="char:EOLhyphen"/>nough even in them for his juſtice to work upon, and that it is <hi>his mercy they are not conſumed, becauſe his compaſſions faile not.</hi> Otherwiſe if hee ſhould (even with the beſt of them all) be extreame to marke what is done amiſſe, nei<g ref="char:EOLhyphen"/>ther they, nor any fleſh living were able to abide it.</p>
+            <p n="3">3. If <hi>We</hi> the children and ſervants of the moſt High, be ſo hardly dealt withall; (a you ſhall ſee by and by) <hi>Wee his own people</hi> be put to drinke of ſo bitter a cup; if <hi>Wee,</hi> what then may the wicked and ungodly looke for, but that dreadfull ſentence, <hi>Pſal.</hi> 75.8. <hi>The drogs thereof, all the wick'd of the earth ſhall wring them out and drinke them?</hi>
+               <note place="margin">Dam 6.5.</note> O how ſhould this like <hi>Belſhazzers</hi> hand-writing upon the wall, <hi>Change their countenance, and trouble their thoughts, cauſe the joynts of their loynes to bee looſed, and their knees as ſmite one againſt another?</hi> when they conſider, what plagues remaine for the ungodly, and what ſhall he their portion another day<note n="(d)" place="margin">Elect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Dei cer<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> &amp; p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> lia tolerare, hine ergo colligitur, Diſtrictus Iu<g ref="char:EOLhyphen"/>dex quanta illic feries diſtricti<g ref="char:EOLhyphen"/>one quis repro<g ref="char:EOLhyphen"/>bat, ſi hic cruci<g ref="char:EOLhyphen"/>at quos amat, <hi>Greg. in Moral.</hi>
+               </note>. Ile ſay no more but what the Apoſtle <hi>Peter</hi> does, 1 <hi>Pet.</hi> 4.18. <hi>If the righteous ſoarcely be ſaved, where then ſhall the wicked and ungodly appear?</hi> And ſo inſiſt no lon<g ref="char:EOLhyphen"/>ger upon this firſt Capacity which we conſider Iſrael in, but paſſe unto the ſecond, as ſomething more ſuitable un<g ref="char:EOLhyphen"/>to
+<pb n="11" facs="tcp:113219:5"/>to that condition they were in, as if you heard them thus bemoaning themſelves.</p>
+            <p>Secondly, <hi>We</hi> the unhappy ſubject of the diſpleaſure of our God, who not long ſince liv'd in as much eaſe, as much plenty and abundance as ever people did enjoy. <hi>We</hi> who wanted nothing, while we were in <hi>Zion,</hi> in our Countrey: but now having loſt all, and <hi>Zion</hi> too, are forc't with heavie hearts to ſit down and weepe, when we remember all —. Alaſſe! did we ever thinke we ſhould have come to this when we ſate <hi>in Zion;</hi> compaſs't round about with the rich mercies of our God, when the bright beames of his favour refreſh't our ſoules, and his loving kindneſſe made us glad? VVhen wee ſat as Head and Queen among the Nations, and Princes among the People; did we ever think we ſhould have been driven to this and yet<note n="(e)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Herodo<g ref="char:EOLhyphen"/>rus.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. look upon us, and then learne.</p>
+            <div type="part">
+               <head>The vanity and unconſtancy of all theſe world<g ref="char:EOLhyphen"/>ly things.<note n="(f)" place="margin">O quantum eſt in rebus ina<g ref="char:EOLhyphen"/>nel quantillum Chriſtiano ſuffi<g ref="char:EOLhyphen"/>cit!</note>
+               </head>
+               <p>
+                  <q>
+                     <note n="(g)" place="margin">Se<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> Quam nulli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> conting<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>gna bona &amp; <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>turna?</note> How great bleſſings (as he ſayes) and a great while of enjoying them, can ſeldome or never ſtand together.<note n="(h)" place="margin">Vt in ſecun<g ref="char:EOLhyphen"/>dis rebus conſt<g ref="char:EOLhyphen"/>dat neme, in ad<g ref="char:EOLhyphen"/>verſis nemo deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ciat, <hi>Sen.</hi>
+                     </note> That in proſperity none might preſume, and in adverſity none might deſpaire. All theſe ſublu<g ref="char:EOLhyphen"/>nary things (ſaith <hi>Plato</hi>) are like Gods<note n="(i)" place="margin">Dei ludibri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> quae ſurſum ac deorſum temere ſuo coelè ferun<g ref="char:EOLhyphen"/>tur, intertoque hue &amp; illue curſu vagantur. <hi>Plat.</hi>
+                     </note> Tennis balls, toſt up and downe, hither and thither, and there is nothing certaine under the ſun: yeſterday for thee, and to day for me, and who knowes what may be to mor<g ref="char:EOLhyphen"/>row?</q>
+               </p>
+               <p>Thus who without aſtoniſhment can turne over the ſtories of ancient times, and read of the glory of all the <hi>old world,</hi> on a ſuddain ſwallowed up in an univerſall <hi>Deluge,</hi> or of <hi>Pharaoh,</hi>
+                  <note place="margin">Exod. 14.</note> that ſun of <hi>Egypt</hi> with his numo<g ref="char:EOLhyphen"/>rous Hoſt, all drencht in the red Sea, and never riſe a<g ref="char:EOLhyphen"/>gaine. Of <hi>Sodoine</hi> and <hi>Gomorrah</hi> with all the wealth and ſoules the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,<note place="margin">Gen. 19.</note> devoured in an unheard of ſhower of fire &amp;
+<pb n="12" facs="tcp:113219:6"/>brimſt one from heaven?<note place="margin">Job 1.</note> of <hi>Job,</hi> the greateſt man in all the Eaſt in the morning, in the evening ſpoyled of all, and ſet downe upon the dunghill full of ſorea? VVhat ſhall I ſpeak of <hi>David,</hi>
+                  <note place="margin">2 Sam. 15.</note> at night baniſhed, and ſhifting for his life,<note place="margin">Acts 12.</note> who in the morning ruled <hi>Iſral.</hi> Or of <hi>Herod,</hi> taten with wormes, who yeſterday was intituled a God? <hi>Haman</hi> upon the gallows,<note place="margin">Heſt. 7.</note> who even now was at the Queens ban<g ref="char:EOLhyphen"/>quet? <hi>Nebuchadnezzar</hi> eating graſſe like an <hi>Oxe,</hi>
+                  <note place="margin">Dan. 4.33.</note> who not long ſince was vaunting himſelfe upon the top of his Pa<g ref="char:EOLhyphen"/>lace? VVhat need I reckon up more? both King and Kingdomes, particular men, and whole Countroys, have their ebbes and their tides, their riſing and their ſetting, there ſpringing out, and their cutting down.</p>
+               <p>And that our <hi>latter times</hi> have not been different from <hi>thoſe of old,</hi> will ſoon appeare to thoſe who have read of that great <hi>Frederick</hi> the Emperours full ſea of his for<g ref="char:EOLhyphen"/>tunes and magnificence, end in ſo ſhallow a ſtreame, as that he was driven to be a ſuiter but for a Singing mans place, in that Cathedrall Church which he himſelf, had formerly built,<note place="margin">Cui Orb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s an<g ref="char:EOLhyphen"/>guſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> erat quod ille <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rbi ma<g ref="char:EOLhyphen"/>gr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</note> and yet went without it Or of <hi>Alexander,</hi> whoſe greatneſſe one world would not ſuffice, but deſired more, yet being dead, lay three dayes above ground, and no man ſo much as vouchſafe to bury him. To ſay no<g ref="char:EOLhyphen"/>thing of that great Champion <hi>Bellizarius,</hi> after all his Conqueſts over the <hi>Goths</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>andalls,</hi> and many a Vi<g ref="char:EOLhyphen"/>ctory and Triumph obtained; yet at laſt driven to ſo low a condition, that he was ſeene, having his eyes put out, fit by the high-way ſide a begging in this dolefull tone, <hi>Date obolum Bellizario,</hi> an half penny to <hi>Bellizarius,</hi> an half penny for God ſake to poore <hi>Bellizarius.</hi> Or of <hi>Lotharius</hi> the Emperor, brother to <hi>Lodovicus pius,</hi> after all his, pompe and greatneſſe, and his life in a poor Monaſte<g ref="char:EOLhyphen"/>ry at <hi>Ligonia</hi> in <hi>Italy.</hi>
+               </p>
+               <p>But of all, famous is that one ſtory more, in our own Chronicles of <hi>Edward</hi> the ſecond, King of <hi>England,</hi> who after 19 years reigne over this land in a great height of Plenty, Honour, and abundance; at laſt, being, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:113219:6"/>captive in ſcorne to wards <hi>Briſtow,</hi> by the way his Ene<g ref="char:EOLhyphen"/>mies made him ſit downe upon a mole hill, and call'd a Barber to ſhave off the haire of his head and beard, there<g ref="char:EOLhyphen"/>by to make him more ridiculous; who comming to him with a little water taken out of the next ditch, told him ſcoffingly that his Grace ſhould have had warme water, but hee muſt be content with that now: Whereupon the King laying deeply to heart the ſad condition hee was brought unto, told him he ſhould have warm water whe<g ref="char:EOLhyphen"/>ther he would or no: and ſo (as the Story ſayes) ſell in<g ref="char:EOLhyphen"/>to ſuch an extremity of weeping, that he help't to fill his Baſon with his teares.</p>
+               <p>How eaſily I might bring this <hi>lower,</hi> even to our very Times, he may eaſily conceive, whoſe eyes have ſeene thoſe ſtrange changes and alterations theſe few late yeares have made, both in King and people, ſuch as his forefathers never ſaw, or hundreds of years ever proda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d the like.</p>
+               <p>The conſideration of this unconſtancy in all theſe ſub<g ref="char:EOLhyphen"/>lunary things was that which made that great Emperour of <hi>Perſia,</hi> viewing his huge Army not to be numbred, ſcarce meaſured, fall a weeping,<note place="margin">Quod nemo in<g ref="char:EOLhyphen"/>tra centum annos ex tania ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e ſuperfurunce <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, <hi>Juſt.</hi>
+                  </note> becauſe within ſome few yeares, ſcarce one of that mighty Holt would bee left a<g ref="char:EOLhyphen"/>live or remaining.</p>
+               <p>And as it is with particular men, ſo it is with whole Countreys, where is now the glory of <hi>Athens?</hi> the pomp of <hi>Macedon?</hi> the priviledge of the <hi>ſeven Churches</hi> ſpoke of in the Revelation? where the pride of <hi>Babylon?</hi> the vaſt<g ref="char:EOLhyphen"/>neſſe of <hi>Nineveh?</hi> the luſtre and beauty of <hi>Zion?</hi> or yet the honour of <hi>Jeruſalem?</hi>
+               </p>
+               <p>
+                  <hi>Jam ſeges eſt ubi Troid ſuit,</hi> now graſſe growes there where <hi>Troy</hi> Town ſtood; thoſe places which once were, now are not; thoſe that now are, God knows how long they may continue ſo, and who knows what ſhall bee afterwards?</p>
+               <p>So that what limits <hi>Chronologers</hi> uſe to make of States, or Kingdomes, proportioning the ordinary period to be
+<pb n="10" facs="tcp:113219:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:113219:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:113219:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:113219:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:113219:9"/>five hundred yeares, about which time (ſay they) they have the in period, or ſuffer ſome great and viſible altera<g ref="char:EOLhyphen"/>tion: I dare not, I cannot affirme alwayes to be true, yet many times it falls out ſo, as other uncertaine things may doe. For inſtance: from <hi>David</hi> the firſt King that ſate on <hi>Judahs</hi> throne, to <hi>Zedekiah</hi> the laſt, were 470 yeares. From <hi>Ceoro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> the firſt King of <hi>Athens,</hi> to <hi>Codrus</hi> the laſt, 490 yeares. From <hi>Lycurgus</hi> the Law-giver of the <hi>I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> demonians,</hi> to <hi>Alexander</hi> the great, that ſubverted all, 491 yeares —. Nay, in our own Land, from the time that <hi>Julius Geſar</hi> entred it to that time the Romans quite left it, 500 yeares: then after, from the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> intruſion under their Heptarchy, untill the united Mo<g ref="char:EOLhyphen"/>narchy by King <hi>Egbert,</hi> were 460 years. Indeed from the laſt great alteration by Duke <hi>William</hi>'s Conqueſt, to theſe times, are a great deale more, though ſome would have it to fall out in the beginning of King, <hi>James</hi> his Reigne, in whoſe Crowne both <hi>Yorke</hi> and <hi>Lancaſter, Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland</hi> did ſo happily meet, which was like<g ref="char:EOLhyphen"/>wiſe from the <hi>Norman</hi> Conqueſt, 536 years.</p>
+               <p>But theſe Niceties I deſire not to inſiſt in or put weight upon. Its the generall onely is my ayme to ſhew, how ſading the beauty of this world is, and how there's nothing permanent here below.<note n="*" place="margin">abſirut in terra ſuavit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ven<g ref="char:EOLhyphen"/>tium, gaudiorum inveniatur Ma<g ref="char:EOLhyphen"/>teria, cum tan<g ref="char:EOLhyphen"/>tis alternationi<g ref="char:EOLhyphen"/>bus tota mundi facies immute<g ref="char:EOLhyphen"/>tur, ut elevans allidatur &amp; re<g ref="char:EOLhyphen"/>ſpires alliſus, &amp;c. <hi>Bern. in ſerm. feſt. B. Ma. M.</hi>
+                  </note> What preſent exam<g ref="char:EOLhyphen"/>ples I might produce for this, beſides what hitherto hath been mentioned, every one may conjecture, that has but heard of the late deſolations of fruitfull <hi>Germany,</hi> the ruines of poore <hi>Ireland,</hi> and the ſad breaches and diſtra<g ref="char:EOLhyphen"/>ctions made within theſe four years in this unhappy Kingdome of <hi>England,</hi> each one being ſo many ſeverall Monuments of the truth of this. He inſiſt no longer therefore upon it, but draw up all into ſome uſefull Ap<g ref="char:EOLhyphen"/>plications to our ſelves.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:113219:9"/>
+               <head>Not to ſet our hearts too much upon any of theſe worldly things. <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> 
+                  <note n="k" place="margin">Mundus tranſit &amp; con<g ref="char:EOLhyphen"/>cupiſcentia ejus, Quid vis? utrum amare tempo<g ref="char:EOLhyphen"/>ralia &amp; tran<g ref="char:EOLhyphen"/>ſire cum tempo<g ref="char:EOLhyphen"/>re, an Chriſtum amare, &amp; in ae<g ref="char:EOLhyphen"/>ternum vivere? <hi>Aug. in Joh.</hi>
+                  </note>
+               </head>
+               <p>
+                  <hi>Habnere cuncta quo creabantur;</hi> Every thing had its time of <hi>beginning;</hi> and it is as true, every thing ſhall have its time of <hi>ending</hi> and diſſolution. Suppoſe thou liveſt now in the height of all plenty and proſperity, thou en<g ref="char:EOLhyphen"/>joyeſt thy health, thy wealth, thy friends, thy Coun<g ref="char:EOLhyphen"/>trey; and all thine heart can deſire. O bleſſe God for it, and be not thereby high minded, but rather feare, ever remembring that of the Apoſtle; <hi>Thou that now ſtandeſt, take heed leaſt thou fall:</hi> for what is it thine heart ſo much relies upon on<note n="(l)" place="margin">Ecce turbat Mundus &amp; a<g ref="char:EOLhyphen"/>matur quid fi tranquillus eſſet? formoſo quomodo hares, qui ſic amplecta<g ref="char:EOLhyphen"/>rs foedum flores ejus quomedo colligeres, qui a ſp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is non revo<g ref="char:EOLhyphen"/>cas manum? <hi>Aug. in Pſal.</hi>
+                  </note>? Haſt thou a goodly Kingdom? ſo had <hi>Iſrael,</hi> yet now deprived of all. Haſt thou plen<g ref="char:EOLhyphen"/>ty of riches, and all manner of ſtore? ſo had <hi>Job,</hi> and yet within ſome few houres, become a Proverb for his poverty, while he fits in the duſt tuning his fatall ditty, <hi>Naked came I out of my mothers womb, and naked ſhall I, re<g ref="char:EOLhyphen"/>turn thither againe; the Lord gives, and the Lord takes<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bleſſed be the name of the Lord.</hi> Are thy barnes full of Corne, and thy garners of encreaſe? wanteſt thou room, (with him in the Goſpel) to lay up thy Treaſure in? O remember withall what was ſaid unto him; <hi>Thou fool, this night may thy ſoule bee taken away from thee, and then whoſe are all thoſe thou doſt paſſeſſe? We Iſrael</hi> here, as rich, as great, as full, as any, yet now ſpoyled of all, can onely <hi>ſit downe</hi> in a ſtrange land and <hi>weepe, When wee remember Zion.</hi>
+               </p>
+               <p>Therefore me thinkes it was excellent counſell, that of <q>an ancient Heathen, alwayes to conſider well before hand, <hi>what it is thou ſetteſt thy beart upon,</hi> and ſo provide before hand,</q> that if it ſhould pleaſe God to take that thing away from thee, thou mayeſt not bee quite ſwallowed up of grief &amp; ſorrow<note n="(m)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Epicteu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:113219:10"/>&amp;c. Conſider (ſaith he) with thy ſelfe what kinde of thing it is thou, ſo much affecteſt, alwayes beginning from the leaſt. If thou takeſt delight in a fine <hi>pot</hi> or cu<g ref="char:EOLhyphen"/>rious <hi>glaſſe;</hi> conſider it is but a glaſſe, a brickle veſſell that may be broken; and therefore if it be, be not trou<g ref="char:EOLhyphen"/>bled: ſo, if thou doteſt upon a <hi>Child,</hi> or thy <hi>Wife,</hi> think with thy ſelf they are but fleſh and blood, they may die; therefore if they doe, be not troubled: or thou loveſt a dainty <hi>Horſe,</hi> and prizeſt him high, conſider he may fall lame, or get a ſurfet, or be ſtollen; therefore if he bee, bee not troubled: or thy heart is let upon thy brave <hi>Hou<g ref="char:EOLhyphen"/>ſes</hi> and ſtately <hi>Palaces,</hi> remember that a ſpark of fire may conſume them, or enemies plunder or deſtroy them; therefore if ſuch a thing happen, be not troubled—, A meditation of an Heathen (I confeſſe) befitting a Chriſti<g ref="char:EOLhyphen"/>an, alwayes to ſtand upon ones <hi>guard;</hi> and with anothers <hi>Heathen</hi> (whoſe ſobriety and vigilance herein I am afraid ſhames many a Chriſtian.) When thou art going to bed, thus to thinke<note n="(n)" place="margin">Dic mihi dormituro, potes non expergiſci; dic experrecto, potes non dor<g ref="char:EOLhyphen"/>mire dic exean<g ref="char:EOLhyphen"/>ti, potes non re<g ref="char:EOLhyphen"/>dire; dic re de<g ref="char:EOLhyphen"/>unti, potes non exire, &amp;c. Sen.</note>, perhaps I may never awake: up in the morning, perhaps I may never lie downe againe; go<g ref="char:EOLhyphen"/>ing abroad, perhaps I may never returne againe; being re<g ref="char:EOLhyphen"/>turned, perhaps I may never goe abroad again: ſeeing there is ſuch changes in all theſe outward things, ſtriving to get an heart<note n="(o)" place="margin">In hoc mun<g ref="char:EOLhyphen"/>do non timere, non dolere, non laborare, non periclitar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> im<g ref="char:EOLhyphen"/>poſſibile ſed plu<g ref="char:EOLhyphen"/>rimu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> reſt, qua expectatio<g ref="char:EOLhyphen"/>ne, quo animo, quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> patiatur, <hi>Aug. ad. Di<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>.</hi>
+                  </note> fitted for that change; that when it pleaſeth God thy try all comes, thou mayeſt bee able to ſtand in the day of thy viſitation.</p>
+               <p>Secondly, ſince all theſe worldly things are ſo muta<g ref="char:EOLhyphen"/>ble, let it be thy wiſdome to ſet thine heart upon thoſe things which are <hi>immutable,</hi> and cannot be taken away.<note n="*" place="margin">
+                     <p>Diſcite in hoc Mundo ſupra Mun<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m eſſe, &amp; ſi corpus ge<g ref="char:EOLhyphen"/>ritis, volite<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in<g ref="char:EOLhyphen"/>vobis ales inte<g ref="char:EOLhyphen"/>rior. <hi>Ambroſil. de Virg.</hi>
+                     </p>
+                     <p>Pereant haec omnia, &amp; dimi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>an<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s haec van<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp; in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> a, conferamus not ad ſolam inquiſiti<g ref="char:EOLhyphen"/>tion em cor<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> quae <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> non <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, <hi>Aug. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</hi>
+                     </p>
+                  </note>
+               </p>
+               <p>There is nothing here below, but it's continually ſub<g ref="char:EOLhyphen"/>ject to ſome loſſe or change, onely here's the comfort of a Chriſtian, ſome things there are <hi>peculiar</hi> unto him,
+<pb n="17" facs="tcp:113219:10"/>which he cannot be robbed or ſpoyled of, nor ever taken quite away from him, peace of Conſcience, faith in Chriſt, aſſurance of Heaven, the favour of God, comforts of his Spirit, the merits and mercies of his Saviour and Redeemer; all the World cannot rob a Child of God of theſe: plunder his Goods, ſpoile his houſe, ſequeſter his Lands, revile his good Name, reproach his Innocency; and the like, they may: but to rob him totally of his comforts here, or inheritance hereafter, that's without the reach of malice, or foes to doe: Let theſe therefore be thy ſtudy, thy care to attaine. It's the fault of us all, with <hi>Martha,</hi> we are <hi>carefull, and troubled about many things</hi> buſie our ſelves about the profits and pleaſures of this world, which fade in the very uſing; meanewhile neglect <hi>that one thing that is ſo needfull,</hi> (which having got, we are rich enough) even that good thing that can never be taken away from us<note n="(p)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Chryſoſt.</note>. O let it bee thy care therefore for the future, to looke over all theſe change<g ref="char:EOLhyphen"/>able, mutable things, and thirſt after that, <hi>that one thing that is ſo needfull;</hi>
+                  <note n="(q)" place="margin">Quantumli<g ref="char:EOLhyphen"/>bet ſis avarus, ſufficit tibi De<g ref="char:EOLhyphen"/>us. Terrum vel<g ref="char:EOLhyphen"/>les poſſidere? adde &amp; coelum; plus eſt qui fe<g ref="char:EOLhyphen"/>cit terram &amp; coelum, Auſt.</note> 
+                  <hi>Chriſtum &amp; omnia,</hi> get but Chriſt, and thou haſt all.<note n="(r)" place="margin">O ſi ſapis mi homo, mundum tranſire permitte cum concupiſcentiis ſuis, cum tempore ſuo, ne tu ipſe tranſeas cum tempore mundum: non ama, ſed Chriſtum ama, ut poſſis cum ipſo in aeter<g ref="char:EOLhyphen"/>num vivere, <hi>Aug. tract. 2. in Ep. Jo.</hi> Cui Chriſtus incipit dulceſcere, neceſſe eſt a<g ref="char:EOLhyphen"/>mareſcere mundum, <hi>Bern.</hi>
+                  </note> 
+                  <hi>Mundum non ama, &amp;c.</hi> (with <hi>Auſtin</hi> ſweetly) <q>If thou be'ſt wiſe, if thou love thy ſelfe, love not the world; let it paſſe, leſt thou paſſe away with it: But ſet thy heart rather upon God, that hee may be thy portion;</q> upon Chriſt, that he may be thy Sa<g ref="char:EOLhyphen"/>viour; upon his bleſſed Spirit, that hee may be thy ſup<g ref="char:EOLhyphen"/>porter: in a word; upon Heaven<note n="(s)" place="bottom">Faelix illa eſt mutatio, ubi Deum pro mundo accipimus, pro terra coelum.</note>, that it may be thine inheritance, and thy treaſure may be laid up there, where neither <hi>moth can corrupt, nor theeves breake through or ſteale.</hi>
+               </p>
+               <p>I have inſiſted longer then I intended upon theſe perſons here; yet I hope not without ſome <hi>uſe</hi> and <hi>benefit.</hi>
+                  <pb n="18" facs="tcp:113219:11"/>It will make the better way to their <hi>paſſion</hi> in the next words.</p>
+               <p>And firſt of the <hi>Paena Senſus,</hi> which is two-fold.</p>
+               <list>
+                  <item>1. <hi>Sate down.</hi>
+                  </item>
+                  <item>2 <hi>And wept.</hi>
+                  </item>
+               </list>
+               <p>I ſhall obſerve three ſeverall Circumſtances, as ſo ma<g ref="char:EOLhyphen"/>ny aggravations of their griefe and ſufferings, yeelding anſwerably <hi>three</hi> ſeverall <hi>Obſervations.</hi>
+               </p>
+               <p>
+                  <hi>Sate downe:</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>1</label> And is that ſo great a matter (might ſome reply) to ſit quietly and at eaſe? if thou be'ſt weary (un<g ref="char:EOLhyphen"/>happy <hi>Iſrael</hi>) why canſt thou not riſe? and <hi>walke</hi> along the River fide, ſolace thy ſelf with the greenneſſe of the meadows, and pleaſant gliding of the ſtreams? Theſe, theſe to one that has ſat too long, or is weary, may re<g ref="char:EOLhyphen"/>freſh him.</p>
+               <p>But away from us ſuch miſerable Comforters all: here indeed we <hi>fit,</hi> here our captive bodies take their place, not of eaſe or reſt, but rather of grief and tears, while our un<g ref="char:EOLhyphen"/>captived ſouls meant-while wander abroad, and view the deſolations of our poore <hi>Zion.</hi> Ah unhappy <hi>Zion,</hi> what comfort can there be in theſe ſtrange Rivers? the remem<g ref="char:EOLhyphen"/>brance of thy <hi>Iordan</hi> to us is more pleaſant then either <hi>Ti<g ref="char:EOLhyphen"/>gris</hi> or <hi>Euphrates,</hi> or all the Rivers of <hi>Babylon</hi> How can this ſtrange Countrey ſeeme pleaſant unto us,<note n="*" place="margin">Od<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> valde pa<g ref="char:EOLhyphen"/>triam qui ſibi bene putat quum peregr inatur, <hi>Aug. in Pſal. 93</hi>
+                  </note> when we con<g ref="char:EOLhyphen"/>ſider our owne Land lies waſte, over-run with Enemies, and we as ſtrangers thruſt out of it; from our goodly Ci<g ref="char:EOLhyphen"/>ties, and rich Poſſeſſions; our ſeiled Houſes, and ſtately Palaces; our Vineyards, and our Oliveyards; our Milke, and our Honey; in a word, from our Altars, and our Worſhip, and our Temple, and our God and all. O this, this is that which makes us <hi>ſit downe</hi> ſo ſadly here: <hi>viz.</hi> the ſerious conſideration of our owne condition, thruſt<note n="(t)" place="margin">Tu ver <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> mea Tellus &amp; genitorum pa<g ref="char:EOLhyphen"/>tria vale: uam. viro licei Plurimum malis obruatur nullum eſt ſuavius ſolum. quam qued nutrivit e<g ref="char:EOLhyphen"/>um, <hi>Eurip. 1.</hi>
+                  </note> out of <hi>Zion,</hi> and depriv'd of all. Whence Ob<g ref="char:EOLhyphen"/>ſerve: That</p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:113219:11"/>
+               <head>To bee driven out of Zion<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Fu<g ref="char:EOLhyphen"/>rip. in Aegas.</note> from ones home, and the Houſe of God, rob'd and ſpoyled of all, is enough to put any one into a ſad poſture and con<g ref="char:EOLhyphen"/>dition.</head>
+               <p>I thinke I may ſave a labour of enlarging my ſelfe, or adding proofes: I wiſh, there be not ſome who heare me this day, can beare me witneſſe to the truth thereof, out of their own too deare experience.</p>
+               <p>If not, that theſe ſad times did not produce too many multitudes of examples both out of <hi>Ireland</hi> and <hi>England</hi> too, who have ſealed the truth of this with their blood as well as with their tears, and with poor Iſrael here, have no other employment left to buſie themſelves withall, but onely to <hi>ſit downe and weep.</hi>
+               </p>
+               <p>Certainly, if ever <hi>Iſraels</hi> caſe was verified in any Age, it is in this, when ſo many are driven from their houſes and their homes; from their Temples and their Worſhip; from their comforts, and their own; ſuch as have had large poſſeſſions, and goodly inheritances; ſuch as have flowed with milke and honey, with all manner of plenty and abundance, and have relieved thouſands; yet now, they themſelves forced to wander up and down, not knowing where to get a piece of bread.</p>
+               <p>Well, God knowes whoſe caſe it may be next; the very ſmoake of his own Countrey was ſweeter to <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes,</hi> then all the pleaſures of another<note n="(u)" place="margin">Non dubia eſt Ithaci pru<g ref="char:EOLhyphen"/>dentia ſed ta<g ref="char:EOLhyphen"/>men optat Fu<g ref="char:EOLhyphen"/>mum de pat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is poſſe videre fo<g ref="char:EOLhyphen"/>cis. <hi>Ovid. l. de Ponto.</hi> Neſcio quae nata<g ref="char:EOLhyphen"/>le ſolum dulce<g ref="char:EOLhyphen"/>dine cunctos Ducit, &amp; im<g ref="char:EOLhyphen"/>memores non ſinit eſſe ſui. <hi>Ide<g ref="char:cmbAbbrStroke">̄</g>.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Hom. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Hom. Odyſſ. <hi>1.</hi>
+                  </note>.</p>
+            </div>
+            <div type="part">
+               <head>O let it be ſo to thee who enjoyeſt it yet; <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> make much of it while thou haſt it.</head>
+               <p>Otherwiſe, ſhould God drive thee out of thine owne <hi>Zion,</hi> amongſt thy barbarous and cruell enemies where it may be thou ſhouldeſt not hear a Sermon once in a twelve moneth, but in ſtead of publick prayers thou ſhouldeſt
+<pb n="20" facs="tcp:113219:12"/>have a <hi>Maſſe;</hi> inſtead of a <hi>Bible</hi> a Crucifix or rope of Beads; in ſtead of going to <hi>Church,</hi> made to goe on Pro<g ref="char:EOLhyphen"/>ceſſion, or Pilgrimage to ſome Saint or Relique—Where thou ſhouldeſt not know where to lie, or whither to goe, or what to doe. I aſſure thee thou wouldſt take as little joy in all theſe, in all their pompe and outſide, as poore <hi>Iſrael</hi> does here, who can doe nothing now but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it downe and weep, when they remember <hi>Zion.</hi>
+               </p>
+               <p>Secondly, if thou deſireſt ſtill to enjoy thy <hi>Zion,</hi> and not be caſt out and deprived of all, then take heed of that which will unavoydably caſt thee out, and that is <hi>Sinne,</hi> and unthankfulneſſe to the Lord thy God;<note place="margin">Dan. 9.16.</note> 
+                  <hi>For our ſins, and for the iniquities of our Fathers; Jeruſalem, and thy people are become a reproach to all that are round about us,</hi>
+                  <note place="margin">Eam. 1.8.</note> ſayes the Prophet <hi>Daniel:</hi> and <hi>Jeremy</hi> as plainly, <hi>Je<g ref="char:EOLhyphen"/>ruſalem hath grievouſly ſinned; therefore ſhee is removed.</hi> This, this is that caſt <hi>Adam</hi> out of Paradiſe, <hi>Iſrael</hi> out of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> and <hi>Judab</hi> into Captivity: This was that undid <hi>Judab,</hi> overthrew <hi>Jeruſalem,</hi> waſted <hi>Zion,</hi> and will bee the deſtruction of any people. I ſay no more but what God himſelfe warnes thee, Levit. 18.25. <hi>The Land is defiled, therefore I doe viſit the iniquity thereof upon it; and the Land it ſelfe vomiteth out the Inhabitants thereof.</hi> Take heed of being defiled, if thou deſireſt not to bee vo<g ref="char:EOLhyphen"/>mited out of the good Land the Lord hath given thee.</p>
+               <p>Where was it they ſate downe? <label type="milestone">
+                     <seg type="milestoneunit">Obſervat. </seg>2</label> the fore-going words declare; <hi>viz.</hi> in <hi>Babylon;</hi> how ever of it ſelfe a pleaſant and goodly Land, yet a Land of <hi>Heathens</hi> and <hi>Idolaters,</hi> of prophane and ſuperſtitious, of enemies to God, and ſcoffers at his Ordinances, as <hi>Lament.</hi> 1.8. <hi>Her enemies ſaw ber, and did mocke at her Sabbaths.</hi> And thus,</p>
+            </div>
+            <div type="part">
+               <head>Not onely to be deprived of Gods Ordinances, but to be driven out amongſt ſcoffers and mockers, is a ſore Judgement indeed.</head>
+               <p>But further, it was not in <hi>Babylon,</hi> not in their Cities
+<pb n="21" facs="tcp:113219:12"/>and Towns, or under their houſes and coverings; that would have been ſome comfort unto us, to have enjoy<g ref="char:EOLhyphen"/>ed the ſociety of men; perhaps ſome tender heart paſſing by, would at leaſt have given us a ſigh or groane, or pi<g ref="char:EOLhyphen"/>tyed our hard condition. Or if wee might have but had the benefit of their <hi>walls</hi> onely, to ſhelter us from the <hi>heat</hi> by day, or <hi>cold</hi> by night, wee would have been content to have lodged upon the hard ſtones, in the mid<g ref="char:EOLhyphen"/>dle of their ſtreets, if we might have had ſo much favour ſhewed us; the ſtones perhaps, as they uſe to doe, would have relented at our miſery; which the hard hearts of our enemies will not doe. But alaſſe! we cannoe have ſo much mercy ſhewed, as to be within their <hi>Walls,</hi> or in their <hi>Cities;</hi> but as though we were unworthy the ſocie<g ref="char:EOLhyphen"/>ty of men, even of our very enemies; we are driven out to wander upon the <hi>bankes of the Rivers,</hi> and ſuch deſo<g ref="char:EOLhyphen"/>late places, an ordinary habitation for <hi>Bitterns</hi> and <hi>Owles</hi> (as <hi>Iſaiah</hi> ſpeakes) for the <hi>Cormorant</hi> and the <hi>Raven,</hi> and the <hi>
+                     <g ref="char:V">Ʋ</g>ulture,</hi> theſe now are our beſt com<g ref="char:EOLhyphen"/>panions.<note place="margin">Eſa. 34.11.</note> VVee were driven from our Countrey be<g ref="char:EOLhyphen"/>fore into <hi>Babylon,</hi> now out of <hi>Babylon,</hi> to <hi>the Wa<g ref="char:EOLhyphen"/>ters of Babylon;</hi> and whither they will drive us next, God knows, perhaps into the Rivers and Waters themſelves.</p>
+               <p>However, happy were it for us if they would drive ue <hi>in,</hi> then there were an <hi>end</hi> of this our miſery.</p>
+               <p>But behold their <hi>cruelty,</hi> they will not caſt us into the <hi>Water,</hi> for feare they ſhould diſpatch us too ſoon, and ſo dying, wee ſhould dye but once: Nor yet into the <hi>fire,</hi> leſt it ſhould turne and devoure them, as it did the <hi>three Childrens</hi> Enemies. They would not expoſe us to the mercy of <hi>wild beaſts,</hi> leſt the ſavage Creatures, as the Lyons to <hi>Daniel,</hi> ſhould ſhew us more favour then the ſons of Men: nor <hi>bury us alive</hi> in ſome hole or pit, leſt the earth ſhould not endure the burden, but ſwallow up them, as it did <hi>Corah</hi> and his Company; but they caſt us out unto the wide world, to the Rivers brinke,
+<pb n="22" facs="tcp:113219:13"/>to hunger, cold, ſolitude and nakedneſſe, that ſo not dying, we might continually dye<note n="(y)" place="margin">Te lapis &amp; Montes immo<g ref="char:EOLhyphen"/>taque <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>upibus altis Rob<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a, te ſevae pregenuere ferae, <hi>Ovid. Epiſt. 7.</hi> Saevior es triſti Buſir ide, ſaevio<g ref="char:EOLhyphen"/>illo Qui falſwn lent o torruit igne bove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, &amp;c. <hi>Ovid. 3. Triſt. 11.</hi> Non tam omni<g ref="char:EOLhyphen"/>tus ignoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere eſt crudelitas, quam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ullum modum tenere, <hi>Sen.</hi>
+                  </note>; whence learn that
+<q>The tender Mercies of the wicked are cruell.</q>
+               </p>
+               <p>How hardly is poore <hi>Iſrael</hi> uſed here? and God knows whoſe turne it may be next; however, this is that you ſee muſt be expected at their hands, unheard of cruelty and incompaſſion. <hi>Right Honourable and beloved,</hi> there is, there is at this day a <hi>Babylon</hi> too, a <hi>Romiſh Baby<g ref="char:EOLhyphen"/>lon,</hi> into whoſe hands, if ever God ſhould give you up, you are like to finde as little mercy as <hi>Iſrael</hi> does here.</p>
+               <p>The world has experienc'd, and wee too, what their <hi>tender mercies</hi> have been; not to goe ſo farre as the <hi>In<g ref="char:EOLhyphen"/>dies,</hi> and enquire how they uſed the poore Natives there, hanging, killing, burning, roaſting ſome upon ſpits, bay<g ref="char:EOLhyphen"/>ting others at a ſtake with Maſtiffes<note n="(z)" place="margin">Et Lupus &amp; turpes inſtant merrentibus ur<g ref="char:EOLhyphen"/>ſi, Et quaecunque utino<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nobilita<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> fera eſt, <hi>Cv.</hi>
+                  </note> like Bulls or Beares, burying others up to the neck in the ground, and then bowling at their heads, in ſtead of a Jack, untill they had knocked out their braines, with thouſands of cruelties more.</p>
+               <p>
+                  <hi>Hiſpaniola</hi> a little Iſland, can give you a Catalogue of <hi>ten hundred thouſand</hi> Natives murthered there; and the <hi>Continent</hi> neare by, of threeſcore hundred thouſand in ſeventeen years ſpace; and in forty years, an hundred and fifty hundred thouſand killed and murthered: and above five times as much ground as all <hi>Spain</hi> utterly waſted and depopulated.</p>
+               <p>And I wiſh our deare younger ſiſter of <hi>Ireland,</hi> could not preſent her Catalogues too; how, from that time ſhee was circumvented, and caught in an evill net, ſince that horrid, and (never to bee expreſt with tearmes bad enough) ſavage, heatheniſh, tygeriſh, helliſh <hi>Rebellion</hi> broke out, (as credibly has been reported) above foure hundred thouſand poore Proteſtants lives (in little more then foure yeares ſpace) have been made a ſacrifice to their rage and fury.</p>
+               <pb n="23" facs="tcp:113219:13"/>
+               <p>Neither has our Kingdom of <hi>England</hi> wanted expe<g ref="char:EOLhyphen"/>rience of their tender mercies, both</p>
+               <p>
+                  <hi>Long agoe,</hi> when our ſtreets ran with blood of <hi>Martyrs,</hi> and every corner flamed with <hi>Eliahs</hi>
+                  <note n="*" place="margin">Pendit, in ex<g ref="char:EOLhyphen"/>pleto non fanda piaculo Buſto. Cum laceras Aruss aequata<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vulnera mem<g ref="char:EOLhyphen"/>bris vidimus, &amp;c. <hi>Lucan. 2.</hi>
+                  </note> fiery Chariots, car<g ref="char:EOLhyphen"/>rying ſcorched ſoules to Heaven; to ſay nothing of their great fire (ſo neare this place) cloſe coucht in the bowels of the earth; ever bleſſed be God, their <hi>Plot</hi> and <hi>Powder</hi> would not take; or their Racks, their Gibbets, their Tortures, and what not, in thoſe <hi>Marian</hi> days, when all was at their mercy. And</p>
+               <p>
+                  <hi>Of late,</hi> in this <hi>unnaturall bloody Warre</hi> now amongſt us, a fruit of the former tree, a ſpawne of the old Ser<g ref="char:EOLhyphen"/>pent; a Warre, I am confident, begot in <hi>Rome,</hi> hatcht in <hi>Ireland,</hi> and foſtered up in <hi>England</hi> and <hi>Scotland</hi> by the ſame Nurſes and Midwives, the <hi>Jeſuites</hi> and their adhe<g ref="char:EOLhyphen"/>rents, who were the firſt Plotters and contrivers of it.</p>
+               <p>
+                  <hi>Right Honourable and Beloved,</hi> durſt I be ſo bold, I could name you the man yet living amongſt us, to whom it was confeſt, by one very neare to the Conclave of <hi>Rome,</hi> almoſt foure yeares before any thing appeared (in <hi>Anno</hi> 1637.) what ſhould happen within few yeares after; the time, the yeare, the place where it ſhould begin, whi<g ref="char:EOLhyphen"/>ther after it ſhould ſpread; with other remarkable cir<g ref="char:EOLhyphen"/>cumſtances, as he heard it himſelf plotted at <hi>Rome</hi> before, and has punctually fallen out both in <hi>Ireland</hi> and <hi>England</hi> ſince.</p>
+               <p>O if theſe, and ſuch like bee the tender mercies of the wicked; what then is their rage and fury? I ſay no more but what old <hi>Jacob</hi> ſaid, (Gen. 49.6.) <hi>O my ſoul come thou not into their ſecret, and unto their Aſſembly mine Honour bee thou not united. Curſed bee their an<g ref="char:EOLhyphen"/>ger, for it is fierce; and their wrath for it is cruell.</hi>
+               </p>
+               <p>And the <hi>Lord</hi> give us all grace to prevent him this day by our timely repentance and amendment, leſt our ſins cauſe him to give us up a prey unto their rage and fury; and if it be his will, rather take us into his mercy,
+<pb n="24" facs="tcp:113219:14"/>then give us up unto theirs: but <hi>divide them in Jacob, and ſcatter them in Iſrael.</hi>
+               </p>
+               <p>There is one <hi>hint</hi> more out of this word <hi>ſate,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obſer. </seg>3</label> and that is the <hi>continuance</hi> of this their deſolate condition.</p>
+               <p>
+                  <hi>Sitting</hi> in Scripture, uſually implies <hi>long continuance;</hi> (as were eaſie to ſhew, if the time would permit) ſo here, it is not ſtanding, or a ſpurt and away, but we <hi>ſate long by it;</hi> the hard ground being our ſofteſt cuſhion, and open aire our warmeſt Canopy —. Here we ſit by the wa<g ref="char:EOLhyphen"/>ters ſide, gazing upon the ſwift gliding ſtreames, which as they paſſe along, put us in minde of our flitting and momentany condition; the bubling, murmuring brooks, teaching us to ſigh and groane; and the moiſt watery ſtreames, calling aloud for our watery teares. Thus day after day, here we ſit, and cannot withall but ac<g ref="char:EOLhyphen"/>knowledge
+<q>Gods juſt dealing with us herein.</q>
+               </p>
+               <p>We were long <hi>ſetled upon our Lees,</hi> long ſate in our ſins, and rebellions againſt God before, and now God payes us home in our owne kind;<note place="margin">Sic pectora magnis obſeſſa tralis, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctu non ſunt ferienda le<g ref="char:EOLhyphen"/>vi, <hi>Ser<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>trag.</hi>
+                  </note> 
+                  <hi>Sic pectora magnis, &amp;c.</hi> long <q>continued fearefull ſins, muſt expect long continued Judgments, and ſo uſually it falls out that</q>
+                  <q>Gods Judgements commonly are proportioned to mans ſinne.</q>
+               </p>
+               <p>God calls, the ſinner <hi>ſits ſtill;</hi> he promiſes, they <hi>ſit ſtill;</hi> threatens, <hi>ſtill they ſit;</hi> corrects and plagues, ſends his Judgements abroad, for all that they <hi>ſit ſtill.</hi> Some <hi>ſit</hi> all day over their ſick healths, their drunken cups, till (as the Prophet ſpeaks) the wine enflame them<note n="(a)" place="margin">In ebriis non ratio ulla, non ullum vitae ge<g ref="char:EOLhyphen"/>rendae conſilium, nec geſtorum aut lectionum memoria, &amp;c. <hi>Aug.</hi>
+                  </note>; ſome (with <hi>Sampſon</hi>) <hi>ſit</hi> too long with their <hi>Delilahs</hi> on their lap, till a <hi>ſnare</hi>
+                  <note n="(b)" place="margin">Libido velut feſtuca eſt cito acce<g ref="char:cmbAbbrStroke">̄</g>ditur, prope. conſumitur, <hi>Amb.</hi> Saevus Criminum ſtimulus Libido quae nunquam quietum patitur affectum, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fervet, die anhelat, &amp;c. <hi>Bern.</hi>
+                  </note> 
+                  <hi>enter into their ſoule:</hi> ſome <hi>ſit</hi> whole dayes and nights too up at Cards and Dice, and yet think
+<pb n="25" facs="tcp:113219:14"/>an houre too long to <hi>ſit</hi> at a Sermon: Others <hi>ſit in the ſeat of ſcorners,</hi> mock and flout at Religion and all good<g ref="char:EOLhyphen"/>neſſe; others <hi>in the gate</hi> and way of ſinners, in places of Rule and Authority, and take advantage thereby to oppreſſe the poore and ueedy, and <hi>pervert Juſtice and Judgement in the gate</hi>— Well, let all theſe take heed, o<g ref="char:EOLhyphen"/>therwiſe God can give them ſitting enough whence they ſhall not eaſily ariſe.</p>
+               <p>There is, there is <hi>(my beloved)</hi> a day comming when we muſt all <hi>ſit</hi>— nay, <hi>lye</hi> downe in the <hi>valleys of the ſhadow of death</hi> (how ſoone God onely knows) when each one of us muſt ſay <hi>to corruption, thou art my Father, and to the Worm, thou art my mother and my ſiſter.</hi> O you therefore, who now <hi>ſit</hi> here, and all in health and peace before God;<note place="margin">Job 17.14.</note> take heed, take heed I ſay of fitting too long in your ſins and wickedneſſe, leſt God quit you in your owne kinde, and give you ſitting enough with Iſrael here, even ſitting down in wrath, and riſing up in ſorrow. — Which brings me to the other part of this their paſſion, —they ſate downe —, yea they wept when, &amp;c.</p>
+               <p>Secondly, <hi>Yea, we wept.</hi>
+               </p>
+               <p>Indeed, <hi>they that carryed us away Captive, required of us a ſong and melody in this our heavineſſe, Sing us one of the ſongs of Zion,</hi> ſaid they ſcoffingly unto us. But alas, <label type="milestone">
+                     <seg type="milestoneunit">Verſ. </seg>3</label> an anſwer was ready at hand, <hi>Quî cautabimus; How ſhall wee ſing the Lords ſong in a ſtrange Land? Weepe,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Verſ. </seg>4</label> or groane out a Song we may, but for us to tune our pipes, now to ſing or make <hi>melody in this our beavineſſe</hi> that's impoſſible —. Indeed we have brought our Harps along with us, a good minde we had you ſee, to <hi>remember Zion in our mirth;</hi> but alaſſe, <label type="milestone">
+                     <seg type="milestoneunit">Verſ. </seg>2</label> we were forced to <hi>hang them upon the willowes in the midſt thereof:</hi> and now to remember it in our tears, no uſe at all have we of them now; <hi>Non eſt conveniens luctibus iſte ſo<g ref="char:EOLhyphen"/>nus,</hi> Muſick and Baniſhment, Deſtruction and Singing, Harpes and weeping ſuit but ill together.</p>
+               <p>Other Inſtruments indeed we have brought along with us wil fit the <hi>Chorus</hi> wel, heavie hearts, and minds oppreſt,
+<pb n="26" facs="tcp:113219:15"/>ſighing ſouls and weeping eyes, theſe are our harpes and viols, &amp; organs now, nothing now but ſit down &amp; weep.</p>
+               <p>And therefore leſt this <hi>Fountaine</hi> ſhould overflow, give me leave to divide it into theſe <hi>three Channels,</hi> which will containe it all, — And ſo conſider them weeping here,</p>
+               <p>Firſt, <hi>Fletu Contritionis,</hi> with the teares of ſorrow or Contrition for our ſins that have been the cauſe of all this; We have powred out rivers of rebellions and wic<g ref="char:EOLhyphen"/>kedneſſe before, and now we are quitted in our own kind, forc'd to powre out whole rivers of teares.<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> 
+                  <hi>Naturaliſts</hi> ſay, <q>no ſuch way to cure a heart tainted with poiſon, as to weepe extreamely;</q> no other way have wee to cure theſe ſoules of ours tainted with the poyſon of ſo much ſin and ungodlineſſe, as now to <hi>ſit downe and weepe—. Recall</hi> them wee cannot, that's beyond our power being paſt and gone; or to undoe them againe, that's im<g ref="char:EOLhyphen"/>poſſible, there's the miſery of ſin, <hi>once done, it's done for ever;</hi> and to ſatisfie for the leaſt of them, that infinitely ex<g ref="char:EOLhyphen"/>ceeds our ability; for <hi>Wherewith ſhall I come before the Lord,</hi>
+                  <note place="margin">Micah 6.6.</note> (as the Prophet ſpeaks) <hi>or bow my ſelfe before the moſt high God? ſhall I come with thouſands of Rams, or ten thou<g ref="char:EOLhyphen"/>ſand Rivers of Oyle? ſhall I give my firſt born for my tranſgreſſi<g ref="char:EOLhyphen"/>on, the fruit of my body for the ſin of my ſoul?</hi> No, it coſt more to redeem a ſoule, <hi>finite</hi> can never ſatisfie for <hi>infinite; Wee muſt let that alone for ever,</hi> noely weep we may; and every teare as it comes trickling from our eyes, puts us in mind from whence came all our miſerie, even from our ſelves, <hi>Perditio tua ex te O Iſrael,</hi> our deſtruction is from our ſelves; now we may ſee whom it is we have to thanke for all: not <hi>God,</hi> no he deales but juſtly with us, and according to our deſerts. Not the <hi>Babylonians,</hi> no they are but Gods Inſtruments, the rod of his wrath in the hand of the Lord; and when the Father has done correcting his childe, he can ſoone take the Rod and caſt it into the fire. Not our ill luck or <hi>fortune,</hi> no wee had a faire time before, and would take no warning at all. But <hi>Sin</hi> it is, our <hi>ſins</hi> and rebellions againſt the Lord our God, has
+<pb n="27" facs="tcp:113219:15"/>brought all this upon us<note n="*" place="margin">Malorum om<g ref="char:EOLhyphen"/>nium noſtrorum Cauſa eſt pecca<g ref="char:EOLhyphen"/>tum, &amp;c. <hi>Ang.</hi>
+                  </note>. And therefore in conſidera<g ref="char:EOLhyphen"/>tion of this our hard condition, which our ſelves have brought our ſelves into, wee can doe nothing now but <hi>weepe: Speaeke</hi> we cannot, our hearts are too full of griefe and ſorrow to utter our minds; and <hi>pray</hi> wee dare not, becauſe thou Lord art angry with us; or if wee would, whither ſhall wee direct our prayers? to thine <hi>Angels,</hi> whom thou haſt ſent formerly to deliver us? they, neither dare, nor can help us, without commiſſion from thee: To the <hi>Patriarchs</hi> and ſaints of old, for whoſe ſake thou haſt done great things for us? yea,<note place="margin">Eſa. 63.16.</note> but <hi>Abraham is ig<g ref="char:EOLhyphen"/>norant of us, and Iſaac knows us not,</hi> there is little help to bee look'd for from them. Then to <hi>Balaim</hi> or <hi>Aſhte<g ref="char:EOLhyphen"/>roth,</hi> to <hi>Chemoſh</hi> or <hi>Milcom,</hi> or ſome of the Gods of the Heathens? No alaſſe, we have gone too long a whoring after them, and that has brought us to all this. VVhat then? to thee <hi>O thou preſerver of men?</hi> But thee it is whom we have offended, and haſt caſt us off, and art diſplea<g ref="char:EOLhyphen"/>ſed with us; O which way ſhall we turn us
+<q>To what diſtractions Sin drives a man to at laſt?</q>
+               </p>
+               <p>VVee know not what to doe, but onely ſit downe and weep. So that ſince our tongues and mouths cannot, <hi>(Lord)</hi> our eyes onely now cry aloud for mercy to thee.</p>
+            </div>
+            <div type="part">
+               <head>See, ſee the unhappy fruit of all lewd and ſinfull courſes.</head>
+               <p>
+                  <hi>Quantillae voluptatis cauſa,</hi> as that Emperour ſaid,<note place="margin">Plutarchus de Lyſimache.</note> when he had ſold his Army and Kingdome for a cup of cold water being athirſt, for how ſhort, how ſmall a plea<g ref="char:EOLhyphen"/>ſure, what an Army, what an Empire have I loſt? So may every fooliſh Sinner ſay, For how few houres of fading pleaſures here, do we purchaſe to our ſelves days, and moneths, and years, nay whole Myriads of grief and paine hereafter.</p>
+               <pb n="28" facs="tcp:113219:16"/>
+               <p>
+                  <hi>Noeet empta dolore voluptas,</hi> it is but an ill <hi>Feaſt</hi> that has ſo ſawcy a reckoning, for an <hi>Ounce</hi> of joy, to have a <hi>Pound of</hi> ſorrow; for my ſinfull and momentany delights<note n="*" place="margin">Illad ſolum eſt Lucrum ubi fructus p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tuus, ubi mer<g ref="char:EOLhyphen"/>ces aterna, <hi>Amb. op. 44.</hi>
+                  </note> here, (with unhappy <hi>Iſrael</hi>) now to have the diſplea<g ref="char:EOLhyphen"/>ſure of God, the frownes of my Saviour, baniſhment from my Country, loſſe of all; and for my reward ſit down and weep.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> O thinke upon this, <hi>all you who forget God,</hi> re<g ref="char:EOLhyphen"/>member that after <hi>ſummer</hi> then comes <hi>harveſt,</hi> after <hi>ſowing</hi> follows <hi>reaping;</hi> and <hi>what a man ſowes, that ſhall hee alſo reap:</hi>
+                  <note place="margin">Gal 6.7.</note> 
+                  <hi>He that ſows unto the fleſh, ſhall of the fleſh reape cor<g ref="char:EOLhyphen"/>ruption; and be that ſows unto the ſpirit, ſhall of the ſpirit reap life everlaſting. Hee that ſows unto ſin, ſhall reape the reward</hi> of ſin, and <hi>that is death,</hi> to iniquity, the fruit of iniquity, and that is ſhame and bitterneſſe in the latter end.</p>
+               <p>VVhen the <hi>day-worke</hi> once is done, then comes the wa<g ref="char:EOLhyphen"/>ges, and a wiſe <hi>Labourer</hi> will count before-hand, what he ſhall have for all his paines, what it is he works for, that ſo he may not loſe his labour afterwards. A wiſe <hi>Chap<g ref="char:EOLhyphen"/>man</hi> will conſider the price of his Commodity before he carry it home. A <hi>Porter</hi> will not carry a burden before he have lifted it, and conſidered the weight of it, that he may know whether he be able to carry it or no. O that the ſons of men were ſo wiſe in their generations as theſe are! Did they but ſeriouſly conſider with themſelves what it is they labour in the wayes of ſin all their time for, and what their wages ſhall be another day: Did they but caſt up the <hi>price</hi> of this deare Commodity of ſinne what it comes to, or poiſe &amp; weigh beforehand, what the <hi>burden</hi> will bee, of ſo many thouſand Oaths, of ſo many luſtfull thoughts; of ſo many uncleane actions, of ſo ma<g ref="char:EOLhyphen"/>ny deſperate wilfull habituate ſins, againſt God, and his truth, and Goſpell, and all; did they (I ſay) but ſeriouſly conſider, and thus caſt up their accounts before-hand; I beleeve wiſdome would teach them, not haſtily to venture upon ſo ill a bargaine.</p>
+               <p>Pope <hi>Leo</hi> the tenth was much miſtaken (as Popes may
+<pb n="29" facs="tcp:113219:16"/>be for all their infallibility) who (as they ſay) was the firſt inventer of that <hi>Taxa Camarae Apoſtolicae,</hi> a Rate-book (to be ſeen this day in the <hi>Vatican</hi> at <hi>Rome</hi>) containing the prices of all ſins, ſo much for a murther, ſo much for an Inceſt, ſo many Dollars for a Rape, ſo many Crowns for a Treaſon, ſuch a ſum for a Blaſphemy, &amp;c. (enough to invite any man to ſin, when he knowes the price be<g ref="char:EOLhyphen"/>fore-hand, and how reaſonable a rate he may have it at:) I ſay he was much miſtaken in theſe prices of ſin, for it <hi>coſt farre more to redeeme a ſoule.</hi> Theſe poore <hi>Iſraelites</hi> can tell you a great deale better, and out of experience too what it coſt them: namely, the loſſe of <hi>Gods</hi> favour, the for<g ref="char:EOLhyphen"/>feiture of his protection, baniſhment out of their Coun<g ref="char:EOLhyphen"/>trey, purchaſe of confuſion; and after all, fitting downe and weeping; thus deare it coſt them, what ever others think.</p>
+               <p>And did but our <hi>luſtfull Gallant,</hi> as hee paſſes by the corner of the ſtreet, in the <hi>twilight, in the evening,</hi>
+                  <note place="margin">Prov. 7.9.</note> 
+                  <hi>in the darke and blacke night,</hi> with the price of Iniquity in his hand, conſider as he goes along, the price he muſt pay to God too for ſuch a ſin; how many repentant teares hee muſt (with poore <hi>Iſrael</hi> here) weep, before ever hee can come to waſh off the ſpots and guilt of ſuch a ſin of his ſoul again.</p>
+               <p>Or would but our drunken <hi>Nabals,</hi> as they count their healths, ſcore up likewiſe the number of thoſe ſighs and groanes, this mirth muſt coſt them, before ever they can come into Gods favour againe.</p>
+               <p>Or our deceiptfull <hi>Ballancers,</hi> as they put the falſe weight into one ſcale, put the true into the other, the true weight of ſo many checks of Conſcience, ſo many hor<g ref="char:EOLhyphen"/>rours of ſoule, ſo many gripes and pangs of repentant ſorrow it will coſt them afterward, and then obſerving well, which <hi>ſcale</hi> weighs heavieſt, let them ſay with <hi>De<g ref="char:EOLhyphen"/>moſthenes,</hi> whether they will, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, buy repentance at ſo deare a rate.</p>
+               <p>It was a <hi>wilde Meditation</hi> of one, but proved well in
+<pb n="30" facs="tcp:113219:17"/>the concluſion; ſuppoſe ſaid he, I ſhould thus ſay with my ſelfe, Ile drinke, and Ile ſweare, and Ile whore, and Ile cheat; and Ile doe what I liſt. And what then? Ile quarrell, and Ile kill, and Ile care for no man. And what then? Ah could I ſay, Ile goe to Heaven too, Ile be ſaved, Ile have bliſſe and happineſſe afterward, it were ſome<g ref="char:EOLhyphen"/>thing: but then, then I muſt die, I muſt come to judge<g ref="char:EOLhyphen"/>ment, and hold up my hand at the barre of Gods Tribu<g ref="char:EOLhyphen"/>nall, and afterward pay deare for all my ſhort and mo<g ref="char:EOLhyphen"/>mentany pleaſures here. O ſurely (as hee ſaid before) I will never purchaſe repentance at ſo deare a rate; Farre better (with poore Iſrael) to weepe unto true contrition and repentance here,<note n="(a)" place="margin">
+                     <g ref="char:V">Ʋ</g>tinam quis daret Capita meo aquas, &amp; orulis meis fon<g ref="char:EOLhyphen"/>tem lad ryma<g ref="char:EOLhyphen"/>rum, farte enim non repe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iret ignis caurens, quod interim ſtuens Lacrhy ma diluiſſet, <hi>Bern.</hi>
+                  </note> then weep in hell hereafter for the want of it, and that without a<g ref="char:EOLhyphen"/>mendment.</p>
+               <p>Secondly, we wept <hi>Fletu Devotionis,</hi> with the teares of true devotion; as if they ſhould thus have ſaid. VVe can<g ref="char:EOLhyphen"/>not but ſee that God is angry with us, that the <hi>fire</hi> of his wrath is gone out againſt us, and has almoſt conſumed us. All the Rivers of <hi>Babylon,</hi> no nor the whole Ocean to boot, is able to quench one ſparke of that flame, onely our true repentant teares muſt doe it. And there<g ref="char:EOLhyphen"/>fore all we can doe<note n="(b)" place="margin">Tantum pae<g ref="char:EOLhyphen"/>nitendo Lachry<g ref="char:EOLhyphen"/>marum bibat, quantum quis a Deo ſe meminit amiſiſſe per cul<g ref="char:EOLhyphen"/>pam <hi>Grego.</hi>
+                  </note> is to ſit downe and weep, and here in the devotion of our ſouls to poure them out before the Lord.</p>
+               <p>I forbeare to mention the ſtrange <hi>Encomiums</hi> that the ancient Fathers have of true repentant Teares, that they are, <hi>the</hi>
+                  <note n="(c)" place="margin">Spongia peccatorum, <hi>Chryſ.</hi> Vinum Angelo<g ref="char:EOLhyphen"/>rum, <hi>Bern.</hi> Holocauſtum pingue, <hi>Greg.</hi> Quae rigant cae<g ref="char:EOLhyphen"/>lum <hi>Chryſoſt.</hi> Quod defendi non poteſt, ablui poteſt, <hi>Amb.</hi> Impoſſibile eſt, filium tantarum Lachrymarum perire, <hi>Amb.</hi>
+                  </note> 
+                  <hi>Sponges to dry up all our ſinnes; the wine of Angells; the bedewers of beaven, &amp;c.</hi> Ile rather turne the ſtreame thus. Why doe theſe <hi>Iſraelites</hi> weepe thus ex<g ref="char:EOLhyphen"/>treamly? why thus mourne? had they not preſent com<g ref="char:EOLhyphen"/>forts and refreſhments by them? preſent delights and joyes to cheare them? what doe they weep for then?</p>
+               <p>
+                  <hi>Anſw.</hi> In one word, <hi>God is angry,</hi> he is diſpleaſed with them, and that now is the true <hi>Cauſe</hi> of all their griefe, of all their Teares.</p>
+               <pb n="31" facs="tcp:113219:17"/>
+               <p>Whence Obſerve,</p>
+               <p>
+                  <hi>There can bee no true pleaſure in any thing in the world ſo long as God is angry.</hi>
+               </p>
+               <p>Its a ſtrange thing, can <hi>Iſrael</hi> doe nothing now <hi>but ſit down and weepe?</hi> What though they be driven from their owne Countrey; yet now let them make the beſt of it they can, <hi>Levius fit, &amp;c. Patience makes that light,</hi>
+                  <note place="margin">Levius fit pati<g ref="char:EOLhyphen"/>entia quiequid corrigere eſt ne<g ref="char:EOLhyphen"/>fas.</note> 
+                  <hi>which cannot otherwiſe be helpt:</hi> Was not <hi>Babylon</hi> a pleaſant land, ſcituate upon ſo many waters, neare (as moſt <hi>Geographers</hi> think) to the <hi>Garden of Eden,</hi> the Paradiſe of God; but alaſſe, what's all this to the purpoſe? <hi>Eden</hi> is no <hi>Eden,</hi> ſo long as God is angry; and Paradiſe it ſelf's an<note n="(d)" place="margin">Quicquid praeter Deum eſt, dulce non eſt, quicquid mihi vult dare Do<g ref="char:EOLhyphen"/>minus meus, auferat toturn, &amp; ſe mihi det. <hi>Aug. ſupr. Pſal. 26.</hi>
+                  </note> Hell, ſo long as God's not there.</p>
+               <p>
+                  <hi>Si mihi Scribis, &amp;c.</hi> (ſayes <hi>Bernard</hi>) if you write unto me, <q>if I doe not find the name Jeſus in your Letters, I care not for them: if you diſcourſe or talke unto mee, if it be not of Chriſt, of my Saviour and Redeemer, I heed it not.</q> So may I ſay, you may follow your pleaſures, if God be not with you in them; you may goe about your buſineſſe, if God goe not with you; you may pleaſe your ſelves with all the delights of the ſonnes of Men, if God be angry,<note place="margin">Inquieturn eſt Cor noſtrum donec requieſcat in te Domine, <hi>Aug. Conſ.</hi>
+                  </note> if he be diſpleaſed and frown upon you, all is nothing, but will prove in the end a continuall torment, a continuall hell.</p>
+               <p>
+                  <hi>Inquietum eſt Cor noſtrum, &amp;c.</hi> you know whoſe ſpeech it was; as the point of the <hi>needle</hi> trembles continually till it point juſt north; ſo our ſoules can never be at quiet till it reſt in thee O God<note n="(e)" place="margin">Platonici dicunt, beatum eſſe Hominem fruentem Deo, non ſicut Cor<g ref="char:EOLhyphen"/>pore, vel ſcipſo fruitur Animus, aut ſicut Ami<g ref="char:EOLhyphen"/>cus Amico, ſed ſicut Luce Ocu<g ref="char:EOLhyphen"/>lus, <hi>Aug. l. 8. de Civ. Dei.</hi>
+                  </note>.</p>
+               <p>As the Ancient Fathers were wont to ſay of an <hi>ill Con<g ref="char:EOLhyphen"/>ſcience,</hi> it was like a <hi>ſcolding wife;</hi> a man (ſay they) may goe about his buſineſſe, and ſolace himſelfe all the day long, with drinking, and his merry companions, but when he thinkes hee muſt goe home at night, to his <hi>vex<g ref="char:EOLhyphen"/>ation,</hi> that damps all his mirth, and quite marrs and ſpoiles all: ſo is it here, men may ſolace themſelves in ſinfull pleaſures, and take their ſwing in all mirth
+<pb n="32" facs="tcp:113219:18"/>and jollity; but when they conſider that all this while <hi>God is angry</hi> and night will come, their laſt long night of death, when they muſt goe home,<note n="(f)" place="margin">Non eſt quo fugias a Deo i<g ref="char:EOLhyphen"/>tate, niſi ad De<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n placatum Il<g ref="char:EOLhyphen"/>le totus Oculus, quta omnia vi<g ref="char:EOLhyphen"/>det; totus Ma<g ref="char:EOLhyphen"/>nus, quia o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> operatur, &amp;c. <hi>Aug. in Pſal. 74. &amp; Pſ. 120.</hi>
+                  </note> and come unto an account, for all their ſinnes and offences againſt this God; this, this is enough to coole and damp all.</p>
+               <p>And this very thing was that which makes them ſit down and take no pleaſure in any thing but onely to weepe. It's true, the loſſe of their goods was much, the loſſe of friends more, the loſſe of <hi>Zion</hi> more then either, but the loſſe of God, that he is angry and diſpleaſed, that's the vexation and grief of all.</p>
+               <p>O therefore <hi>thinke upon this all you</hi> who enjoy this worlds good, and doe what you luſt; you who ſolace your ſelves in unlawfull gaines and pleaſures, and yet ſay no eye ſhall ſee you; who wallow in all manner of ſin and wickedneſſe, and ſport your ſelves in iniquity; yet never conſider all the while that God is angry and diſ<g ref="char:EOLhyphen"/>pleaſed with you —. O be perſwaded betimes to make God your friend, doe not continue in his anger and diſ<g ref="char:EOLhyphen"/>pleaſure, but get into his favour againe, elſe I aſſure you all the pleaſures of <hi>Babylon,</hi> will bee no pleaſures; all the delights in the world will be but bitterneſſe in the lat<g ref="char:EOLhyphen"/>ter end.</p>
+               <p>Rather with <hi>Iſrael</hi> weep, for offending this good God with true <hi>devotion</hi> and affection, and truſt in Chriſt here. Otherwiſe I can tell you of another place, where you ſhall be forc'd to weepe whether you will or no, and all too late<note n="(g)" place="margin">In Infer no nulla eſt Re<g ref="char:EOLhyphen"/>demptio, quoni<g ref="char:EOLhyphen"/>um nec pater ibi poteſt adjuvare filium, nec filius patrem, ibi non invenitur Ami<g ref="char:EOLhyphen"/>micus, &amp;c. <hi>vide Aug. in Serm. ad Erem. — Et poſtea,</hi> 
+                     <g ref="char:V">Ʋ</g>nde miſcri prae nimia doloris amaritudine amariſſime flentes, &amp; prae anguſtia ſpiritus gementes, dicent in Inferne, &amp;c.</note>, even in that proper place of <hi>Weeping and wayling, and gnaſhing of teeth.</hi>
+               </p>
+               <p>
+                  <hi>O how much better therefore, farre better to weep a flood of teares here, rather then be drown'd in a ſea of wrath hereafter!</hi>
+               </p>
+               <p>Thirdly, we wept <hi>Fletu Compaſſionis,</hi> with the teares of pitty and Compaſſion; which brings in the laſt part, and another Aggravation of their griefe. And that is,</p>
+               <pb n="33" facs="tcp:113219:18"/>
+               <p>
+                  <hi>Paena Damni,</hi> the puniſhment of loſſe, loſſe of Friends, of Kindred, of Houſes, of Country, of God, the loſſe of <hi>Zion</hi> includes all.</p>
+               <p>Suppoſe we had loſt our goods, yet if we might have enjoyed our houſes, or our Towns and Cities, the mat<g ref="char:EOLhyphen"/>ter had been the leſſe: or if we had loſt theſe, if we might have but enjoyed our <hi>Canaan,</hi> the promiſed Land, there had been ſome comfort in that: or if we had been driven out of <hi>Zion,</hi> yet might we have enjoyed the God of <hi>Zion,</hi> had we had his favourable countenance to ſhine upon us, all had been nothing: but to be deprived of goods, and houſes, and Towns, and Countrey, and God and all; O this, this makes us we cannot chuſe but weep, when thus we remember <hi>Zion.</hi>
+               </p>
+               <p>And here I ſhall confine this remembrance of <hi>Zion</hi> un<g ref="char:EOLhyphen"/>to two heads; namely,
+<list>
+                     <item>
+                        <hi>in ſtatu quo Nune.</hi>
+                     </item>
+                     <item>
+                        <hi>in ſtatu quo Prius.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Firſt, they remember <hi>Zion, in ſtatu quo prius,</hi> in her former condition, when ſhee was in the height of all plenty and proſerity, when ſhee enjoy'd both riches and peace, and honour, and abundance, and all: had this peo<g ref="char:EOLhyphen"/>ple never had theſe things, the trouble had been the leſſe, becauſe they could not know the want of them; but to enjoy them ſo many yeares together, and with ſuch a full hand too, and now after all this, to be thruſt out of all, this makes them recount and ponder them the more. Beſides their plenty, proſperity, and peace, they remember their <hi>Sabbaths</hi> which once they had; they re<g ref="char:EOLhyphen"/>member their glorious <hi>Temple,</hi> which once they enjoy'd; they remember their <hi>God,</hi> whom once they worſhipt; their <hi>Redeemer,</hi> who had formerly defended them; in a word, they remember their <hi>Zion</hi> in proſperity and glory, as once it was, and all the pleaſant things they had in the dayes of old.</p>
+               <p>But to come a little cloſer, both<note n="(a)" place="margin">Nemo recor<g ref="char:EOLhyphen"/>datur niſi quod in praeſentia non eſt poſitum, <hi>Aug.</hi>
+                  </note> S. <hi>Austin,</hi> and<note n="*" place="margin">Aquin.</note> 
+                  <hi>Phi<g ref="char:EOLhyphen"/>loſophers</hi> tell us, that <hi>ad Reminiſcentiam ſemper requiritur praecedent oblivio,</hi> Remembrance alwayes is of ſuch a
+<pb n="34" facs="tcp:113219:19"/>thing as is forgot: therefore in that it's ſaid here, wee remembred <hi>Zion,</hi> it muſt needs denote out unto us theſe 2 <hi>Things;</hi>
+               </p>
+               <p n="1">1. That they had <hi>forgot,</hi> in their proſperity, they little heeded or regarded <hi>Zion</hi> then.</p>
+               <p n="2">2 Now in baniſhment being driven out, now they <hi>re<g ref="char:EOLhyphen"/>member.</hi>
+               </p>
+               <p>Firſt, it neceſſarily implies they had <hi>forgot,</hi> elſe how could they now remember? in their peace and plenty they had but little regard of <hi>Zion</hi> then. It faring with them as uſually it doth with the outer <hi>ſences</hi> of the body, you know it is an <hi>Axiome</hi> in <hi>Philoſophy,</hi>
+                  <note place="margin">Omne ſenſibile paſitum ſupra ſentum, impedit ſenſati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nem.</note> 
+                  <hi>Any object not kept</hi> 
+                  <q>
+                     <hi>at a diſtance, but laid cloſe unto the Organ of Sence, quite dulls and hinders the ſenſe it ſelfe:</hi>
+                  </q> as for example, the <hi>finger</hi> held <hi>cloſe to the eye</hi> quite blinds it; a great ſound neare the eare quite deafes it; like thoſe <hi>Catadupi</hi> (a peo<g ref="char:EOLhyphen"/>ple dwelling neare the fall of <hi>Nilus</hi>) who by continuall hearing of thoſe <hi>Cataracts</hi> or downefall of the waters, heare nothing at all. So this people, while they were in their owne Countrey, compaſs'd cloſe with the rich mer<g ref="char:EOLhyphen"/>cies and bleſſings of their God, neither ſee, nor heard, nor regarded <hi>Zion</hi> then, theſe bleſſings were too neare and common with them, and therefore they ſo little regar<g ref="char:EOLhyphen"/>ded them then.</p>
+               <p>And I would this were Iſraels caſe alone, and that <hi>mutato nomine,</hi> it were not true of <hi>England</hi> likewiſe, as well as of <hi>Iſrael;</hi> and that God hath not juſt cauſe to take up the ſame complaint againſt us, that a great man did a<g ref="char:EOLhyphen"/>gainſt one in another caſe, to whom he had ſhew'd many favours, and hee con'd him but little thanks againe. <hi>Quantum,</hi>
+                  <note place="margin">Quantum ego dedi, &amp; quan<g ref="char:EOLhyphen"/>tillum re<g ref="char:EOLhyphen"/>cepi?</note> 
+                  <hi>&amp;c.</hi> how many favours have I ſhew'd to him, how ill has he required me? So God to us, <hi>Quantum ego dedi,</hi> how many bleſſings, how many favours, how many deliverances have I wrought for them; <hi>&amp; quantillum re<g ref="char:EOLhyphen"/>cepi;</hi> how little thankes, what poore obedience, have they return'd? how ill have they requited me? nay, I pray God it be never ſaid upon us for a <hi>Curſe,</hi> that our heed<g ref="char:EOLhyphen"/>leſneſſe
+<pb n="35" facs="tcp:113219:19"/>and forgetfulneſſe of both former, and late bene<g ref="char:EOLhyphen"/>fits, doe not hinder new favours and mercies from us. And I am verily perſwaded it is not one of the leaſt argu<g ref="char:EOLhyphen"/>ments the accuſer of mankind has to make God angry with us, that we doe not remember and prize our preſent <hi>Zion</hi> ſo as we ſhould.</p>
+               <p>Things are <hi>common</hi> and <hi>ordinary</hi> with us, we goe to <hi>bed</hi> at night, and ſleep well; and riſe in the morning,<note place="margin">Mos eſt oblivl<g ref="char:EOLhyphen"/>ſei Hominibus, neque noviſſe cujus nihil ſit faciunda gratia <hi>Plaut. in Cap. Job. 7.</hi>
+                  </note> and go about our buſineſſe; <hi>ſit down to eate and drinke, and riſe up to play,</hi> and at night goe to reſt againe; and never heed or regard theſe mercies more.</p>
+               <p>Whereas, ſhould we lye downe upon our <hi>ſick beds,</hi> and <hi>toſſe up and downe</hi> (with <hi>Job</hi>) <hi>waking and weary to the dawning of the day;</hi> or (with him and many of Gods deare Children now a dayes) ſhould our <hi>skin cleave unto our bones by reaſon of hunger; and our tongues for thirſt,</hi>
+                  <note place="margin">Job. 19.20.</note> 
+                  <hi>unto the rooſes of our mouth;</hi> an houres reſt then, or the worſt morſell that now wee throw unto the dogs; how pleaſant and ſweet would it taſte, if once we<note n="(b)" place="margin">Luxurieſo frugal<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>as paena eſt, pigro ſuppli<g ref="char:EOLhyphen"/>cij loco Labor eſt, Delicatus miſeretur Indu<g ref="char:EOLhyphen"/>ſtrii, deſidioſo ſtudere, torqueri eſt. Eodem mo<g ref="char:EOLhyphen"/>do ad quae om<g ref="char:EOLhyphen"/>nes imbecilles ſumus, dura at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> intoleran<g ref="char:EOLhyphen"/>da credimus, obliti quam multis tormen<g ref="char:EOLhyphen"/>tum ſit aut vino carere aut pri<g ref="char:EOLhyphen"/>ma luce excitari &amp;c. <hi>Seneca lib. 2. Epiſt. 72.</hi>
+                  </note> wanted it?</p>
+               <p>
+                  <hi>Prope ad te Deus eſt, intus eſt, &amp;c.</hi> (ſaith St. <hi>Auſtin</hi> ſweetly) God be mercifull to us in this one thing, I am afraid we are all too faulty in it, God is ever by us; he is alwayes about us, there's not a moment that wee can live without God and his good Mercies towards us, and yet this God, and theſe Mercies daily, and hourely we forget.</p>
+               <p>Give a child a <hi>Rattle</hi> or a <hi>Counter</hi> to play withall, and hee'l forget Father and Mother, and dinner, and ſupper, and all to play with his Counter. Ah fooliſh babes that we are, that the toyes and fooleries of this preſent world ſhould affect us ſo, that wee forget our Maker, our good <hi>Zion,</hi> and theſe preſent comforts we enjoy.</p>
+               <p>Suppoſe God ſhould leave us in our owne kind, and (but for one moment) forget us, as we daily and houre<g ref="char:EOLhyphen"/>ly forget him; Lord, what would become of all our Rattles and Counters, and Bables then! <hi>Irſrael</hi> here, all the time of
+<pb n="36" facs="tcp:113219:20"/>their proſperity forgot the good things of their <hi>Zion,</hi> now being carryed away Captive and deprived of them, they now remember all—, which brings me to the ſe<g ref="char:EOLhyphen"/>cond thing.</p>
+               <p>Now in their Captivity <hi>they remember Zion.</hi>
+                  <note place="margin">Quaſi Ebrius expergefactus fentit unde ce<g ref="char:EOLhyphen"/>ciderat: <hi>Calv.</hi>
+                  </note> 
+                  <hi>Quaſi ebrius expergefactus,</hi> (ſaith <hi>Calvin</hi>) they were juſt like a drunken man that's fill'd with wine, ſleeps ſecurely all night, heares nothing, feels nothing, or regards nothing, but awak't in the morning, begins to bethinke himſelfe of every paſſage the night before, how hee had abus'd himſelfe, and his friends, and the good Creatures of God; and if he have any ſparke of ingenuity or grace, is exceeding troubled<note n="(c)" place="margin">Bona illa eſt ebrietas, quae infundit laetiti<g ref="char:EOLhyphen"/>am, non affert confuſionem, <hi>Amb.</hi>
+                  </note> at it. So <hi>Iſrael</hi> here, fill'd, nay drunke with the rich mercies of their God before, fall aſleepe in the dark night of forgetfulneſſe, are quite ſenſeleſſe of all former favours towards them, but now by afflictions and baniſhment being awak't, doe recall the paſſages of former times, what they enjoyed, what mer<g ref="char:EOLhyphen"/>cies they had, and how they abus'd them all, themſelves, and their peace, and their God and all.</p>
+               <p>It was but an odde opinion of <hi>Plato,</hi> that all know<g ref="char:EOLhyphen"/>ledge was but onely remembrance<note n="(d)" place="margin">Tantum ſci<g ref="char:EOLhyphen"/>mus quantum memoria tene<g ref="char:EOLhyphen"/>mus, <hi>Cic. 2. de unib.</hi> Omnis Diſcipli<g ref="char:EOLhyphen"/>na memoria conſtat fruſtra<g ref="char:EOLhyphen"/>que docemur, ſi quicquid au<g ref="char:EOLhyphen"/>dimus praeter<g ref="char:EOLhyphen"/>ſtuat, <hi>Quint. l. 11.</hi>
+                  </note>, and yet it holds true in poore <hi>Iſrael</hi> here, all the knowledge of their <hi>Zi<g ref="char:EOLhyphen"/>on</hi> is but onely a bare remembrance; before (as you heard) it was forgetfulneſſe, and perhaps they could wiſh it might be ſo againe (with <hi>Themiſtocles,</hi> who when one offered to teach him the art of Memory, deſired ra<g ref="char:EOLhyphen"/>ther to learne the art of Forgetfulneſſe) that now being deprived of their <hi>Zion,</hi> for ever they might be depriv'd of the remembrance likewiſe of that they have loſt, which is indeed the cauſe of all their ſorrow, and of all their teares.</p>
+               <p>Had they done thus before, and with that <hi>Potter</hi> (that the Story goes of) who once by the election of the peo<g ref="char:EOLhyphen"/>ple comming to bee a King, cauſed every day to bee ſet upon his Royall Cup-board halfe Plate, and half Ear<g ref="char:EOLhyphen"/>then Veſſels; the one to put him in mind what hee is,
+<pb n="37" facs="tcp:113219:20"/>the other what hee was: So had this people formerly been but mindfull what they were, Potters, nay worſe; <hi>toylers in brick and clay</hi> in <hi>Egypt,</hi> and now come to that height to be head and <hi>Queen of the Nations,</hi> they had ne<g ref="char:EOLhyphen"/>ver been driven to this perplexity now; but now being thrown down into the mire and clay of afflictions again, now too late they remember all, though with ſighs and teares.</p>
+               <p>
+                  <hi>Geographers</hi> relate a ſtrange thing of one part of the Earth, where <hi>moiſture</hi> begets <hi>dryneſſe,</hi> and <hi>drought maiſtuce,</hi> and yet it's ſo here, the moiſt gliding ſtreames of pro<g ref="char:EOLhyphen"/>ſperity, beget dry barren forgetfulneſſe, and the hot ſcorching flames of affliction and perſecution, moiſt fruitfull remembrance<note n="(e)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Chryſ.</note>. <hi>Iſrael</hi> were <hi>wicked</hi> in their <hi>owne holy Land,</hi> now they are <hi>growne godly</hi> in the profane Countrey of their enemies.</p>
+               <p>In <hi>Zion,</hi> when they were <hi>neare</hi> their God, then they were <hi>farre</hi> from him; now in <hi>Babylon,</hi> when they are dri<g ref="char:EOLhyphen"/>ven from his preſence, they creep cloſe unto him; this is the worke of God, and it is marvailous in our eyes; when gentle corrections, <hi>Funieuli Adam,</hi> the bonds of love cannot draw us, <hi>Abenea juga &amp; flagella aculeata,</hi> iron yoakes and ſtinging Scorpions, ſhall drive us whether wee will or no.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> And I would to God, wee would but at laſt take out this leſſon from them, and play our <hi>after-game</hi> as well as they: That we have all of us been too for<g ref="char:EOLhyphen"/>getfull of the good mercies of our God,<note place="margin">Pacile memini<g ref="char:EOLhyphen"/>mus quae volu<g ref="char:EOLhyphen"/>mus, at non licet obliviſci quae volumus, <hi>Cic. deſi I.</hi>
+                  </note> both our owne Conſciences, and theſe preſent diſtempers that are a<g ref="char:EOLhyphen"/>mongſt us, witneſſe ſufficiently to our face. O that we were but ſo wiſe, now afterwards to remember, how we have offended this God, abuſed theſe mercies; and in concluſion wrong'd and ruin'd our ſelves thereby; theſe Meditations even now at laſt (though late) may doe us a great deale of good, which had they been thought on in time, might have prevented much of that miſchief which has long ly'en ſo heavy upon us, and without the mercy of
+<pb n="38" facs="tcp:113219:21"/>God is ready to overwhelme us.</p>
+               <p>I ſhall never forget that dying ſpeech of Cardinall <hi>Woolſey,</hi> who being apprehended and arraigned of Trea<g ref="char:EOLhyphen"/>ſon, broke out into this paſſionate complaint, <hi>O ſi Deo meo, &amp;c.</hi> O had I been but as carefull to <hi>pleaſe my God,</hi> as I was to <hi>pleaſe my King,</hi> this miſery had never befaln mee.</p>
+               <p>So may I ſay, certainly had we in our plenty and abun<g ref="char:EOLhyphen"/>dance, in our former peace and quiet, been as carefull to pleaſe our God, as we were to <hi>pleaſe our ſelves,</hi> and our luſts, and our ſinfull pleaſures and delights, theſe Warres, and bloodſhed, and diſtractions had never thus ſtrangely overtaken us.</p>
+               <p>Well, let it bee our wiſdome <hi>now at laſt,</hi> though <hi>late, very late</hi> God knows, with <hi>Iſrael</hi> here, to remember both God and our ſelves; if not, how cleare ſoever the Hea<g ref="char:EOLhyphen"/>vens ſeeme now in regard of thy particular, yet know, the day may overcaſt<note n="(f)" place="margin">Oprima quaeq. dies mi<g ref="char:EOLhyphen"/>ſeris mortalibus aevi prima fa<g ref="char:EOLhyphen"/>git, ſubeunt mor<g ref="char:EOLhyphen"/>bi, triſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſq ſe nectus &amp; La<g ref="char:EOLhyphen"/>bot, &amp; curae, &amp;c <hi>Virg. 3. Geor.</hi> Meliora prae<g ref="char:EOLhyphen"/>tervolant, dete<g ref="char:EOLhyphen"/>riora<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uccedunt, <hi>Sen. Ep</hi>
+                  </note>, and God may be as <hi>farre off,</hi> as now hee's <hi>near at band.</hi> O what then wilt thou doe? when God thy guide, thy Pilot, the rock and ſtay of thy ſoule has forſaken thee? then it may be thou'lt remem<g ref="char:EOLhyphen"/>ber, when it is too late (as Iſrael here) not with joy, but with ſorrow, <hi>all the pleaſant things which thou hadſt in the dayes of old</hi>
+                  <note n="(g)" place="margin">Lam. 1.7.</note>.</p>
+               <p>Secondly, they remember <hi>Zion, in ſtatu quo nunc,</hi> or as they left it, all ruin'd, ſpoyl'd, ranſack'd and de<g ref="char:EOLhyphen"/>ſtroy'd.</p>
+               <p>And here, <hi>Avertite oculos,</hi> turne aſide your eyes, all you that paſſe by, from beholding that which our eyes ſaw, leſt your hearts alſo breake out into teares as well as ours. An unhappy <hi>Zion!</hi> watered with bloud, as well as teares, the fitting object of our pity, but paſt our help.</p>
+               <p>Remember thee we may, but for our tongues to utter what our eyes did ſee, may unleſſen thy paines, but not our grief. Yet if we muſt needs ſing one of the Songs of <hi>Zion,</hi> where ſhall wee firſt begin? but it's no matter where; <hi>Confuſion</hi> beſt befits the deſcription of that, where we ſaw nothing elſe, and of that Land wherein wee are, whoſe very <hi>name is ſo.</hi>
+               </p>
+               <pb n="39" facs="tcp:113219:21"/>
+               <p>VVell, we wept then,<note place="margin">Jerem. 4.19.</note> when we remembred the <hi>ſound of the Trumpet, and Alarum to warre,</hi> the prancing of their Horſes, and fury of their mighty ones; how like a mighty tempeſt they came thundering downe the Moun<g ref="char:EOLhyphen"/>taines, and like an overflowing Torrent broke out from a far over-ſpreading all the Land.</p>
+               <p>When we remember, how they begirt our City round,<note place="margin">Lam. 5.</note> ſo that we gat <hi>our bread with the perill of our lives, and our skins were blacke like an even, becauſe of the terrible famine</hi>
+                  <note n="(g)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Menand.</note>. <hi>How the tongue of the ſuckling clave to the rooſe of its mouth for thirſt; and the young children asked bread, and no man brake it to them. Nay, how the hands of the piti<g ref="char:EOLhyphen"/>full Women ſod their owne Children, and they were their meate, in the deſtruction of the daughter of my people.</hi>
+               </p>
+               <p>And yet theſe were but the beginnings of ſor<g ref="char:EOLhyphen"/>row.</p>
+               <p>But further, when we remember how furiouſly they brake downe the walls of our City, and madly rang'd about our ſtreets, <hi>Qualis per arva Leo,</hi>
+                  <note place="margin">Qualis per ar<g ref="char:EOLhyphen"/>va Leo fulvam minari fronte concutiens ju<g ref="char:EOLhyphen"/>bam, <hi>Sen. Trag.</hi>
+                  </note> 
+                  <hi>&amp;c.</hi> like mad un<g ref="char:EOLhyphen"/>tamed Beares or Lions waſting and ſpoyling all, if wee ſtay'd <hi>within</hi> our doores they fired our houſes about our eares, and ſadly made them our urnes or geaves to bury us in; if we ſtep out, O what dreadfull ſpeetacles there we ſee!</p>
+               <p>On the <hi>right hand</hi> husbands<note n="(h)" place="margin">Arma non ſervant medu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, nec tempera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> facile, nec re<g ref="char:EOLhyphen"/>primi poteſt ſtricti Enſis I<g ref="char:EOLhyphen"/>ra, Bella dele<g ref="char:EOLhyphen"/>ctat cruor, <hi>Sen. in Herc. fur.</hi>
+                  </note> and Parents and Chil<g ref="char:EOLhyphen"/>dren (<hi>Aſahel</hi> like) wallowing, and tumbling in blood; on the <hi>left</hi> our Wives and Virgins raviſht before our eyes; if we look <hi>before us,</hi> nothing but fire and ſword, rage and fury, horrour and contuſion: if <hi>behinde</hi> us, all ſee their naked ſwords and ſpeares points, how neare they are to runius through. It <hi>blove in,</hi> ſinoke and none, darkneſſe and amazement; <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>der,</hi> Children and Suck<g ref="char:EOLhyphen"/>lings, aged Parents and Kindre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> rolling in their goare, under our very feet: <hi>Ah Cord is be ſunt, non oculorum Lachry<g ref="char:EOLhyphen"/>ma.</hi>
+               </p>
+               <p>And now as we flee away, ſee, ſee our glorious <hi>Temple</hi> where it ſtands, he joy or the whole earth, that wherein
+<pb n="40" facs="tcp:113219:22"/>we put our truſt, now all on a flaming fire; ſee how furi<g ref="char:EOLhyphen"/>ouſly they rage about it, as if happy he who can pull down the firſt ſtone; how rudely they throw down our Altars, dig up our Fathers Sepulchres, and Tombes of Kings and Prophets, throwing their ſacred aſhes about the ſtreets?</p>
+               <p>See what heapes of dying bodies lie gaſping here, and there,<note n="(i)" place="margin">Perfurit &amp; to tum miſce: Mars impius or<g ref="char:EOLhyphen"/>bem, heu diro in<g ref="char:EOLhyphen"/>venta eſt ab Jo<g ref="char:EOLhyphen"/>ve tanta lues.</note> hundreds of ſculls, and legs, and armes, with mangled carcaſſes every where, ike that Emperour at the ſiege of <hi>Damaſcus,</hi> that fil'd all the ditches about the City with dead bodies, and built three great Towers with the very skulls of thoſe that were deſtroyed in the ſiege of it.</p>
+               <p>If one profeſt that he could not forbeare weeping while hee did but read the deſcription of it; can you blame poore <hi>Iſrael,</hi> who both ſaw and felt all this, and a great deale more; if they ſit down and weep at the remembrance of it?</p>
+               <p>But Ile <hi>gaule</hi> your eyes no longer with this tragicall de<g ref="char:EOLhyphen"/>ſcription of poore <hi>Iſraels</hi> caſe; turne them but inwards a little into the bowells of your <hi>owne Countrey,</hi> and perhaps you will ſee <hi>England</hi> (God be thanked) not altogether yet in ſo bad a caſe as Iſrael was here, yet <hi>baſting</hi> on apace, yea even in ſuch a caſe already, as may juſtly make you like<g ref="char:EOLhyphen"/>wiſe <hi>ſit downe, yea and weepe too; when you remember England.</hi> and that</p>
+               <p>In <hi>Iſraels</hi> twofold Condition, both what it <hi>was,</hi> and what it is.</p>
+               <p>Firſt, hee that had lookt upon the <hi>face of England</hi> ſe<g ref="char:EOLhyphen"/>ven yeares agoe, and ſeen how ſmooth, how amiable, how beautifull it was—and ſhould view it again, how worn; how old, how wrinkled and weather-beaten it is now, would ſcarce ever owne it to be the ſame face, the ſame <hi>England</hi> that it was before.</p>
+               <p>
+                  <hi>O bleſſed God!</hi> how ſoone haſt thou made us know what all the pompe and glory of this world is! even <hi>ligh<g ref="char:EOLhyphen"/>ter then vanity itſelfe.</hi>
+               </p>
+               <p>
+                  <hi>As in water</hi> (ſayes the Wiſe man) <hi>face anſwers unto face;</hi>
+                  <pb n="41" facs="tcp:113219:22"/>ſo (in the water of your teares) <hi>let face a little anſwer unto face,</hi> and view this Land what not long ſince <hi>it was,</hi> and what <hi>now it is.</hi>
+               </p>
+               <p>Looke but on the <hi>State in generall</hi> as ſormerly you have known it, how rich, how ſtrong, how quiet,<note n="*" place="margin">O pax ſerenitas. Mentis, ſran<g ref="char:EOLhyphen"/>quillitas animi, vit culum amo<g ref="char:EOLhyphen"/>ris, Conſor tium Charitatis, cun<g ref="char:EOLhyphen"/>ctis placida, &amp;c. <hi>vid. Aug. de verb. Dom.</hi>
+                  </note> how peacea<g ref="char:EOLhyphen"/>ble it was, a man might have rid from one end of <hi>England</hi> to the other, &amp; not meet with an enemy, not ſeen a ſword drawne, or heare the ſound of a Drum or Trumpet in a twelvemonth—. And to have the news brought of a man kill'd, <hi>Monſtrum horrendum!</hi> it rang as a prodigie, or ſome ſtrange thing all the Kingdom over.</p>
+               <p>And looke upon it now, how exhauſt, how cheated, and confined by thoſe many under-Officers whom it truſts, how feeble it's growne, and weakened by its owne ſtrength, what warres, what ſtirres, what tumults, what plundering and oppreſſion, what rapine and bloodſhed, what cruelties, and prodigious villanies are done every where; <hi>whole thouſands</hi> now ſlaine at a time, and ſcarce any notice taken of it, or one <hi>teare</hi> ſhed for it.</p>
+               <p>And for the <hi>Church</hi> in regard of <hi>outwards,</hi> you know the common complaint was, <hi>Church-men</hi> were <hi>too high,</hi> and that made them ſo<note n="(a)" place="margin">Cauſa Rui<g ref="char:EOLhyphen"/>nae Eccleſiae faftus &amp; ſuper<g ref="char:EOLhyphen"/>bia Eccleſiaſti<g ref="char:EOLhyphen"/>corum, <hi>Gerſon Pariſ.</hi>
+                  </note> ambitious—. Well, I thinke they are <hi>low enough</hi> now; and if ever that heavy curſe of God againſt the Prieſts (<hi>Malachy</hi> 2—v. 3.9.) <hi>I will caſt dung upon their faces; and make them baſe and contemptible before all the people;</hi>) was verifyed of late, it is in theſe our dayes: God has indeed <hi>caſt durt upon their faces, and made them baſe and contemptible before all the people.</hi> Great talk there was of the <hi>Clergies</hi> being <hi>too rich,</hi> which made them ſo proud and haughty; and its true, many indeed were ſo. But I beleeve ſome of them are <hi>poore enough</hi> now: nay, I aſſure you <hi>(Right Honourable)</hi> ſuch a courſe is taken in the Country, not by <hi>juſt</hi> and <hi>equall</hi> (that would chear<g ref="char:EOLhyphen"/>fully be undergone) but by<note n="(b)" place="margin">Omnis ini<g ref="char:EOLhyphen"/>quitas &amp; op<g ref="char:EOLhyphen"/>preſſio &amp; inju<g ref="char:EOLhyphen"/>ſtitia Judicium ſanguinis eſt. Et licet gladio non occidas, volunta<g ref="char:EOLhyphen"/>te tamen inter<g ref="char:EOLhyphen"/>ficis, <hi>Hieron, in Iſa.</hi>
+                  </note> unjuſt, unequall, and un<g ref="char:EOLhyphen"/>conſcionable <hi>Taxes;</hi> taking the advantage of theſe times, to lay load upon them, the better to eaſe themſelves; and this not upon the <hi>idle,</hi> lazie, or diſaffected, but upon the
+<pb n="42" facs="tcp:113219:23"/>moſt painfull, moſt pious, moſt conſcientious and <hi>beſt de<g ref="char:EOLhyphen"/>ſerving</hi> Miniſters, ſuch as have ſtood out in the hardeſt times, and born the heat and burden of the day; nay, uſually upon them, rather then others, the more to diſ<g ref="char:EOLhyphen"/>courage and diſhearten them, that unleſſe your goodneſſe and Wiſdomes prevent it in time, inevitably it muſt come to paſſe, that (if not they) yet their wives and children muſt of neceſſity be forc't after a while, to come a beg<g ref="char:EOLhyphen"/>ging to your doores. And I humbly beſeech your <hi>Ho<g ref="char:EOLhyphen"/>nours</hi> in the name of thouſands of the beſt deſerving, and faithfulleſt pious Miniſters, and others in <hi>England,</hi> that you will bee pleaſed to ſet downe a <hi>Rule</hi> whereby ſuch unjuſt exorbitances may be remedyed, and they not left to the arbitrary power and will of thoſe, who neither wiſh well to them nor you.</p>
+               <p>And in regard of <hi>inwards,</hi> 'tis true, the corruptions in the Church before were very great: but are they leſſened now? are they not in another kinde grown far greater, and more deſperate? the <hi>hedge</hi> of all Diſcipline quite bro<g ref="char:EOLhyphen"/>ken down; ah how do the foxes, wolves, and beares, and all the wilde beaſts of the field now rage and domineere? ſuch variety of abominable Hereſies,<note n="(c)" place="margin">Haereſis Graece ab Electi<g ref="char:EOLhyphen"/>one dicitur, quod ſeilicet eam ſibi unuſquiſque eli<g ref="char:EOLhyphen"/>gat diſciplinam quam patat eſſe milicrem, &amp;c. <hi>vide Hicron. in Epiſt ad Gat. &amp; 24. q. 3. Haereſ.</hi> Quid iniquius eſt quam impia ſapere, &amp; ſapi<g ref="char:EOLhyphen"/>entioribus do<g ref="char:EOLhyphen"/>ctioribuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> non credere! ſed in hanc inſipienti<g ref="char:EOLhyphen"/>am cadunt, qui cwn ad cogno<g ref="char:EOLhyphen"/>ſcendum verita<g ref="char:EOLhyphen"/>tem aliquo im<g ref="char:EOLhyphen"/>pediantur obſcu<g ref="char:EOLhyphen"/>ro, non ad pro<g ref="char:EOLhyphen"/>pheticas voces non ad Apoſto<g ref="char:EOLhyphen"/>licas literas, non ad Evange<g ref="char:EOLhyphen"/>licas Authori<g ref="char:EOLhyphen"/>tates, ſed ad ſe<g ref="char:EOLhyphen"/>met ipſos recur<g ref="char:EOLhyphen"/>runt: et ideo Magiſtr. Erroris exiſtunt, quia veritatis diſcipuli non fuerunt, <hi>Leo.</hi>
+                  </note> 
+                  <hi>Sects,</hi> &amp; Schiſmes; ſuch monſtrous, horrid, blaſphemous Opinions; walking up and downe with open face, to the diſhonour of God, and the diſgrace of the Proteſtant Religion; as the very Names of ſuch Sects or Sectaries before theſe dayes were ſcarce ever known or heard of before.</p>
+               <p>In a word, to looke upon the face of the <hi>whole Land,</hi> and to conſider what it was, ſo rich, ſo populous, ſo o<g ref="char:EOLhyphen"/>verflowing with <hi>milke and honey,</hi> like the <hi>garden of Eden, the Paradiſe of God;</hi> and to ſee now what it is, ſo poor, ſo bare, ſo waſted; here one Country quite harraſt thorow; there another forraged and plundred; here ſuch a goodly <hi>Towne</hi> burnt and ſpoyl'd; there another pillaged and undone; here one rich <hi>Family</hi> ſhatter'd and diſſolv'd; there another beggerd and broke to pieces; almoſt no
+<pb n="43" facs="tcp:113219:23"/>place but full of feares, frights<note n="(d)" place="margin">Turbine magnoſpes ſolli<g ref="char:EOLhyphen"/>citae, urbibus er<g ref="char:EOLhyphen"/>rant, tre pidique Metus, <hi>Sen. in Her. ſur.</hi>
+                  </note>, and terrors, every where complaining of wrong and injury, of unjuſtice and oppreſſion, ſtrange unheard of <hi>oppreſſions</hi> and vexation; ſo that a man cannot come almoſt into any company, or three friends meet together for an houre, but either ſome bitter<note n="(e)" place="margin">Gratae ſunt contentiones ho<g ref="char:EOLhyphen"/>minibus, &amp; con<g ref="char:EOLhyphen"/>tradreendo qua<g ref="char:EOLhyphen"/>cunque re pro<g ref="char:EOLhyphen"/>poſita, vincendi deſiderium prae<g ref="char:EOLhyphen"/>ter omnem rati<g ref="char:EOLhyphen"/>enem inexple<g ref="char:EOLhyphen"/>bile, <hi>Srob.</hi>
+                  </note> contention happens <hi>concerning the times,</hi> riſing uſually to ſuch an height, even among familiar acquain<g ref="char:EOLhyphen"/>tance; and leaving ſuch a ſting behind it, as makes them <hi>look ſhy</hi> at one another for a long while after, or elſe cauſes ſuch a <hi>breach of Charity,</hi> as is not eaſie to be made up again.</p>
+               <p>Or if not ſo, yet ſuch ſad, ſuch tragicall, ſuch lamen<g ref="char:EOLhyphen"/>table <hi>ſtories</hi> are related from one and other, as would make ones very heart to bleed, and damps all the comfort of friends meeting, or ſociety whatſoever. He I ſay there<g ref="char:EOLhyphen"/>fore that does but remember the former freedome and happineſſe before, and the ſlaverie and miſeries that are now; cannot I thinke chuſe but with Iſrael here, ſit down and weep when he remembers <hi>Zion.</hi>
+               </p>
+               <p>Ile leave the more particular view of theſe things, to your private <hi>Meditations at home,</hi> and will cloſe all with a <hi>fourefold</hi> view or uſefull Remembrance of <hi>Zion</hi> once more; and then commit you to God.</p>
+               <p>Firſt, remember <hi>Zion</hi> in both theſe ſtates, and then with<g ref="char:EOLhyphen"/>all take notice of the true <hi>effects of ſin,</hi> which has cauſed all this;<note place="margin">Dan 9.6.</note> 
+                  <hi>for our ſins</hi> (ſayes the Prophet <hi>Daniel</hi>) <hi>and for the ini<g ref="char:EOLhyphen"/>quity of our fore-fathers, Jeruſalem and thy people are made a reproach to all that are round about us;</hi> ſo may wee likewiſe ſay, it is for our ſins, &amp;c. It was a good anſwer one of our Countreymen gave to one at the laſt loſing of <hi>Callis</hi> in <hi>France</hi> asking him ſcoffingly, <hi>where's the valour of your En<g ref="char:EOLhyphen"/>gliſh now? when will you win Callis againe?</hi> O Sir ſaid hee, <q>when your ſins are grown greater then ours, then ſhall we conquer you.</q> Piouſly intimating thereby that <hi>ſin is the cauſe of all our loſſes</hi>
+                  <note n="(f)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. Medicus non eſt cauſa Inciſionis, ſed Morbus, ſic &amp; Civitatum diſſipationes ex peccantium im<g ref="char:EOLhyphen"/>modeſtia ortum habent, <hi>Chryſ.</hi>
+                  </note>, of all our heavie changes and diſtractions.</p>
+               <p>And withall remember them likewiſe <hi>unto true and un<g ref="char:EOLhyphen"/>feigned repentance</hi> and amendment, mourne for thine <hi>owne
+<pb n="44" facs="tcp:113219:24"/>ſins,</hi> and the <hi>ſins of the Land,</hi> which have provoked God to be ſo angry with us; ſtrive to <hi>amend thine own life,</hi> and as much as in thee lies to <hi>amend others,</hi> wiſh, and pray, and endeavour a thorow Reformation both of thy ſelfe, and thoſe with whom thou haſt to deale, and all this ſpeedily <hi>ere the day be gone</hi>
+                  <note n="(g)" place="margin">Nunc eſt tempus audren<g ref="char:EOLhyphen"/>di quando ille non aſſumpſit Tempus Judi<g ref="char:EOLhyphen"/>candi-qui loqui<g ref="char:EOLhyphen"/>tur modo tace<g ref="char:EOLhyphen"/>bit, <hi>Aug.</hi>
+                  </note>, and then thou be'ſt forc'd to remem<g ref="char:EOLhyphen"/>ber both thy <hi>Zion,</hi> and them in another place, when with Iſrael here it will be too late<note n="(h)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Chryſ. <hi>Hieron.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> &amp;c. Impoſſibile eſt et ſeire affli<g ref="char:EOLhyphen"/>ctiones afflicte<g ref="char:EOLhyphen"/>rum qui experi<g ref="char:EOLhyphen"/>mentum afflicti<g ref="char:EOLhyphen"/>onis non habuit, <hi>Chryſ.</hi>
+                  </note>.</p>
+               <p>Secondly, remember this thy <hi>Zion, in theſe parts of the Kingdom,</hi> ſo ſtrangely kept hitherto, ſo miraculouſly pre<g ref="char:EOLhyphen"/>ſerved both from <hi>plague,</hi> and <hi>forain forces</hi> and devaſtation, and then with thankfulnes learn to prize thine own hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+               <p>
+                  <hi>Qui non aegrotat neſcit quantum valet ſanitas,</hi> ſaith <hi>Hierom,</hi> He that never was <hi>ſick,</hi> knows not how to prize <hi>health:</hi> He that never was <hi>lame,</hi> knows not how to value his <hi>limbes:</hi> whereas if thou wouldſt know the price of an <hi>eye,</hi> thou muſt ask the blindman; if of an <hi>eare,</hi> ask the <hi>deaf;</hi> if of <hi>meat,</hi> ask the <hi>hungry;</hi> if of <hi>liberty,</hi> ask him that has been long in <hi>Priſon,</hi> and they will tell you out of wofull experience of their own wants and loſſes; ſo if you would know the <hi>true value</hi> and price of <hi>peace,</hi> of plenty and abundance, of the freedom of Gods word and Ordinances, go to <hi>Germa<g ref="char:EOLhyphen"/>ny</hi> or <hi>Ireland,</hi> or ſome parts here in <hi>England,</hi> and they'l tell you by ſad experience, God be mercifull to them. I pro<g ref="char:EOLhyphen"/>ſeſſe it damps my Spirits ſometimes to ſee <hi>what little regard there is</hi> of the afflictions<note n="(i)" place="margin">Faeliciter ſu<g ref="char:EOLhyphen"/>pit qui alieno periculo ſapit, <hi>Plant.</hi>
+                  </note> of <hi>Joſeph;</hi> how ſecurely men go on in their ſins, pleaſe and glut themſelves in all manner of exceſſe riot, and intemperance, in oppreſſing of their poor brethren, and all manner of injuſtice and wrong; ſo long as things goe well with them, whether right or wrong, all's one, they are as little moved with others miſeries, as thankfull for their own happineſſe.</p>
+               <p>O my Beloved, this, this<note n="(k)" place="margin">Incaſſu n. munita ſunt cae<g ref="char:EOLhyphen"/>tera, quum lec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s unus de quo He<g ref="char:EOLhyphen"/>ſti pate: aditus, non eſt munitus, <hi>Greg.</hi>
+                  </note> is that <hi>which threatens a ſad change</hi>
+                  <note n="(l)" place="margin">Saepe queen tentationis, Cer<g ref="char:EOLhyphen"/>tamen ſuperare, non valuit ſua deterius ſecuri<g ref="char:EOLhyphen"/>tas ſtravit, <hi>Gre. in Moral.</hi>
+                  </note>, even with us alſo. Did but others enjoy <hi>halfe</hi> of thoſe bleſſings you <hi>ſleight</hi> or neglect, ſuch abundance of peace, and plenty, and freedome, and eaſe, ſuch frequent
+<pb n="45" facs="tcp:113219:24"/>uſe of Gods Word and Sacraments ſuch overflowing of all manner of good things. <hi>Faelices nimium bona ſi ſua norint:</hi> A People, a City too happy, did they but know their own happineſſe; did but others (I ſay) enjoy half of that which you doe, how happy would they count them<g ref="char:EOLhyphen"/>ſelves if onely it were but to <hi>gather up the Crumbs that fall under your Table.</hi> Well (<hi>Right Honourable</hi> and <hi>Beloved</hi>) give me leave to tell you that I am afraid an heavie <hi>ac<g ref="char:EOLhyphen"/>count</hi> and reckoning is yet behind. O remember that quickning ſpeech of our bleſſed Saviour, <hi>Luke</hi> 12.48. <hi>
+                     <g ref="char:V">Ʋ</g>nto whomſoever much is given, of him ſhall much be requi<g ref="char:EOLhyphen"/>red, and to whom men have committed much, of him they will aske the more.</hi> God has given you (you cannot deny it) a greater meaſure of his bleſſings, then hee has done to o<g ref="char:EOLhyphen"/>thers: O ſtrive to bee anſwerable in a proportionable meaſure of duty and thankfulneſſe againe; leſt hee take them away from you, and give them to thoſe will bring forth better fruits then you doe, the loſſe then will be the heavier, as your ſin before was the greater.</p>
+               <p>Thirdly, remember Gods diſtreſſed <hi>Zion</hi> once more, and then learne <hi>to ſympathize</hi>
+                  <note n="(m)" place="margin">Tanto quiſ<g ref="char:EOLhyphen"/>que perfectior eſt, quanto per<g ref="char:EOLhyphen"/>fectius ſentit do<g ref="char:EOLhyphen"/>lores alienos; <hi>Greg Mor. l. 19</hi>
+                  </note> with thy poor brethren, and to pity them on whom this heavy lot has fallen, it might have been thine, <hi>Quod cuiquam contingit poſſet euilibet,</hi> that which happens to one, might befall another, and its Gods Mercy <hi>onely,</hi> that puts the difference, in ſmiting o<g ref="char:EOLhyphen"/>thers, and ſparing thee; O at leaſt <hi>pity</hi> thoſe<note n="(n)" place="margin">Cujus pi<g ref="char:EOLhyphen"/>ctus tam ferre<g ref="char:EOLhyphen"/>um, cujus Cor tam lapideum ut gemt tus non exprimat Da<g ref="char:EOLhyphen"/>chrymas non effundat cum proximi vel a<g ref="char:EOLhyphen"/>mici Morbum vel interitum intueſur? ut pa<g ref="char:EOLhyphen"/>tienti non com<g ref="char:EOLhyphen"/>patiatur, &amp; do<g ref="char:EOLhyphen"/>lentibus non condolear, &amp;c. <hi>Jun. 1 Cor. 12.27. Rom. 12.15, 16</hi>
+                  </note> who are in worſe condition then thy ſelfe. How can it bee well with the <hi>head,</hi> when the <hi>heart</hi> is ſick; how with the <hi>hands,</hi> when the <hi>feet</hi> are ill; with <hi>one member,</hi> when <hi>another</hi> is pain'd? <hi>Ye are members in particular ſaith the Apoſtle; there<g ref="char:EOLhyphen"/>fore be of the ſame minde one with another; weep with thoſe that weep, and mourne with thoſe that mourne.</hi>
+               </p>
+               <p>Many <hi>Iſraelites,</hi> many of Gods <hi>Zion</hi> may you find every where, ſome in priſon, ſome in want, ſome in baniſhment, ſome plundered, ſome wounded, ſome maymed. O re<g ref="char:EOLhyphen"/>member theſe; Remember them,</p>
+               <p>Firſt, with thy <hi>Charity</hi>
+                  <note n="(o)" place="margin">Semper ha<g ref="char:EOLhyphen"/>bet undo det, cui plenum eſt pe<g ref="char:EOLhyphen"/>ctus Charitatis, <hi>Aug. in Pſal. 36.</hi>
+                  </note>, ſpare ſome of thy over-flowing
+<pb n="46" facs="tcp:113219:25"/>
+                  <hi>Cups,</hi> to quench their thirſt; ſome of thy ſuperfluous <hi>diſhes</hi> to ſatisfie their hunger; ſome of thy caſt <hi>cloaths</hi> to cover their nakedneſſe; ſome of thy <hi>plenty</hi> and abundance to re<g ref="char:EOLhyphen"/>leive their wants: Remember them thus, and their ſoules will bleſſe thee another day.</p>
+               <p>Secondly, remember them in your <hi>Prayers</hi> too: this is <hi>opus Diei in die ſuo;</hi> the proper duty and employment of the day, to deſire God in his due time <hi>to be favourable and gra<g ref="char:EOLhyphen"/>cious unto Zion.</hi> Be earneſt with God therefore;<note n="(p)" place="margin">Prece<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quae attente a puro animo ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dun<g ref="char:EOLhyphen"/>tur, a Domino reportant quod pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt, <hi>Bern.</hi>
+                  </note> what knoweſt thou whether thy prayers (as <hi>Hezekiah</hi>'s did the Sun in the Firmament) may not make the Sun of Righte<g ref="char:EOLhyphen"/>ouſneſſe to turn back from what it is gone down; or (as <hi>Joſuah</hi>'s) to ſtand ſtill, and go down no further, before hee have mercy<note n="(q)" place="margin">Oratio De<g ref="char:EOLhyphen"/>um lenit, ſed la<g ref="char:EOLhyphen"/>chryma cogit, <hi>Hieron. in Iſa.</hi>
+                  </note> on thee. We fare better for the Churches, and other godly Mens prayers; good reaſon they like<g ref="char:EOLhyphen"/>wiſe ſhould fare the better for ours<note n="(r)" place="margin">Impoſſibile eſt ut Deus fide<g ref="char:EOLhyphen"/>liter precanti<g ref="char:EOLhyphen"/>bus, uſquam ſuum neger Ora<g ref="char:EOLhyphen"/>culum, <hi>Bern.</hi>
+                  </note>; <hi>O pray then for the peace of</hi> Zion; <hi>they ſhall proſper that love it.</hi>
+               </p>
+               <p>Thirdly, remember it likewiſe with thy <hi>Teares;</hi>
+               </p>
+               <p>Both 1. of <hi>Contrition</hi>
+                  <note n="(s)" place="margin">Lachrymae paenitentium ca<g ref="char:EOLhyphen"/>dunt in c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſpe<g ref="char:EOLhyphen"/>ctu Domini, <hi>Aug.</hi> Flevit Petrus amare ut la<g ref="char:EOLhyphen"/>chrymae lava<g ref="char:EOLhyphen"/>rent delictum, tu ſimiliter la<g ref="char:EOLhyphen"/>chrymis dilue Culpam, <hi>Id.</hi>
+                  </note> for thine own ſins, and the ſins of the Land which are the cauſes of all our woe.</p>
+               <p n="2">2. Of <hi>Devotion,</hi> bewayling that thou haſt offended ſo good a God, begging mercy, and truſting in Chriſt, and Chriſt alone for help and ſuccour.</p>
+               <p>And 3. of <hi>Compaſſion</hi>
+                  <note n="(t)" place="margin">Illas lachry<g ref="char:EOLhyphen"/>mas vere in vi<g ref="char:EOLhyphen"/>num mutari di<g ref="char:EOLhyphen"/>xerim, quae Compaſſionis affectu in fervo<g ref="char:EOLhyphen"/>rem prodcant Charitatis, &amp;c. <hi>Bern.</hi>
+                  </note>, for thoſe heavie breaches that God has made upon the Church and Nation, endeavou<g ref="char:EOLhyphen"/>ring what thou art able to repaire them, and earneſtly de<g ref="char:EOLhyphen"/>ſiring God in his due time <hi>to make up the breaches of his</hi> Zi<g ref="char:EOLhyphen"/>on, <hi>and to build up the walls of his decayed</hi> Jeruſalem.</p>
+               <p>Laſtly, remember <hi>Zion</hi> once more <hi>Allegorically</hi> with St. <hi>Auſtin</hi> thus;</p>
+               <p>We are all <hi>Iſraelites</hi> in this world, ſtrangers<note n="(u)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Chryſ.</note> and pilgrims here; and <hi>Heaven is our home, our Zion</hi> which is a<g ref="char:EOLhyphen"/>bove. Now as thoſe Iſraelites <hi>ſate down by the waters of Baby<g ref="char:EOLhyphen"/>lon, and wept when they remembred their Zion;</hi> ſo ſhould we in this our <hi>Babylon</hi> of this wicked and unconſtant world (a true land of <hi>Confuſion</hi> indeed) where we are <hi>Captives</hi> to ſin, to Satan, to the world and men; even ſit downe and weep
+<pb n="47" facs="tcp:113219:25"/>when we remember our heavenly <hi>Zion,</hi>
+                  <note place="margin">Multi flent fletu Babylonico, &amp; gaudent gaudto Babylonico, gau<g ref="char:EOLhyphen"/>dent lucris &amp; flent damnis Temporalibus, <hi>Auſt.</hi> Ecce in Babylo<g ref="char:EOLhyphen"/>ne pulchra ſunt quae te tenent, ſed non te teneant (mi homo) aliud eſt Solatium Captivorum, a<g ref="char:EOLhyphen"/>liud gaudium liberorum, <hi>Auſt.</hi> O pax illa quam Zione videbi<g ref="char:EOLhyphen"/>mus apud Deum Illa ſancta aequa<g ref="char:EOLhyphen"/>litas Ange lo<g ref="char:EOLhyphen"/>rum, illa Viſio &amp; ſpectaculum pulchrum, &amp;c. <hi>Auſt.</hi> Hoc eſt quod nos laetificat in omnibus labori<g ref="char:EOLhyphen"/>bus &amp; periculis vitae hujus, A<g ref="char:EOLhyphen"/>mor noſter in Deum, &amp; pium ſtudium, &amp; cer<g ref="char:EOLhyphen"/>ta ſpes, &amp; fervor ſpiritus, <hi>Aug. in Joh.</hi>
+                  </note> out of which our ſins have excluded us, and from whence as yet we are de<g ref="char:EOLhyphen"/>barr'd from going to ſo happy a place.</p>
+               <p>
+                  <hi>Multi flent, &amp;c.</hi> many of us weep too much with <hi>Baby<g ref="char:EOLhyphen"/>lons Tears,</hi> and rejoice with <hi>Babylons joy,</hi> rejoice at worldly <hi>gaines,</hi> and weep for worldly <hi>loſſes;</hi> but who weepes (ſaith he) for the loſſe of heaven; that <hi>Zion</hi> of ours which yet we want? <hi>Ecce in Babylone, &amp;c.</hi> behold many goodly ſhowes there are which may take thine eyes here; yea, but be not taken with them (ſayes the good Father) for there's a great deale of difference between the joy of Captives in this World, and the joy of children with God in that world that is to come.</p>
+               <p>
+                  <hi>O pax illa, &amp;c.</hi> O the bleſſed peace which there wee ſhall ſee in <hi>Zion</hi> with our God, no more wars, or fightings, or frights, or fears, or loſſes, or croſſes there, but all <hi>peace,</hi> all joy, all tranquility and quiet, comfort, and happines there.</p>
+               <p>O remember this <hi>Zion</hi> too, and then let the thought of this <hi>Zion</hi> above <hi>ſtay thy mind,</hi> and cheare thy drooping ſpi<g ref="char:EOLhyphen"/>rits, midſt all the miſeries and calamities here below.</p>
+               <p>And when they that carry thee away Captive require of thee <hi>a ſong in thy heavineſſe,</hi> when any Croſſes or afflicti<g ref="char:EOLhyphen"/>ons of this life preſſe upon thee ſore, ſolace thy ſelfe with the remembrance of this, and ſay, Well, yet my comfort is, the <hi>evening</hi> will come when I ſhall receive my penny; this <hi>warfare</hi> will be accompliſh't, when I ſhall obtain the Victory; this <hi>race</hi> of my life at laſt will be run, when I ſhal get the goale; this <hi>pilgrimage</hi> will be finiſh'd, when I ſhall come to my home: in a word, all theſe <hi>diſtractions,</hi>
+                  <note n="(x)" place="margin">In aeterna vita nullum ha<g ref="char:EOLhyphen"/>bebimus, adver<g ref="char:EOLhyphen"/>ſarium, nulla erit diabolicae fiaudis impug<g ref="char:EOLhyphen"/>natio, nullum Haeretiaae pravitatis dogma, nulla, &amp;c. <hi>Greg. in Pſ. 7.</hi>
+                  </note> troubles and miſeries will ceaſe, when once I come to <hi>Zi<g ref="char:EOLhyphen"/>on,</hi> my <hi>Zion</hi> which is above, and there fit downe in the bo<g ref="char:EOLhyphen"/>ſome of my ſweet Saviour, my God, and my Redeemer, <hi>in whoſe</hi>
+                  <note n="(y)" place="bottom">Praemium eſt videre Deum, vivere cum Deo, vivere de Deo, eſſe cum Deo, eſſe in Deo, qui erit omnia in omnibus, &amp;c. <hi>Bern. de praem. patr. Cael.</hi>
+                  </note> 
+                  <hi>preſence is the fulneſſe of joy; and at whoſe right hand there are pleaſures for evermore.</hi> And ſo having brought you to the glimpſe of a <hi>better Zion;</hi> there I <hi>leave you,</hi> not know<g ref="char:EOLhyphen"/>ing where to leave you in a better place.</p>
+            </div>
+            <closer>Soli Deo ſit Gloria.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
